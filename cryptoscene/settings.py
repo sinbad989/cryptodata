@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY','86@x8rvs1094@fubn2_rhv5cpip4+dd
 
 DEBUG = bool(os.environ.get('DJANGO_DEBUG',True))
 
-ALLOWED_HOSTS = ['secure-beyond-22399.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['newcryptoscape.herokuapp.com','127.0.0.1']
 
 
 # Application definition
