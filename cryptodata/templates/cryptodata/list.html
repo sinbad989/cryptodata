@@ -77,9 +77,9 @@
               <td data-label="Name"><a href="{{c.link}}">{{c.name}}</a></td>
               <td data-label="Price">{{c.price}}
                   {% if c.percent_change >= 0 %}
-                    <span style="color:rgb(27, 219, 27); font-size:x-small;" > (+{{c.percent_change}})</span>
+                    <span style="color:rgb(27, 219, 27); font-size:x-small;" > (+{{c.percent_change}}%)</span>
                   {% else %}
-                    <span style="color:red;font-size:x-small;"> ({{c.percent_change}})</span>
+                    <span style="color:red;font-size:x-small;"> ({{c.percent_change}}%)</span>
                   {% endif %}
               </td>
               <td data-label="MarketCap" class="size">{{c.market_cap}}</td> 
