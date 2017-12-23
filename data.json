@@ -1,0 +1,1346 @@
+[
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "fields": {
+    "app_label": "cryptodata",
+    "model": "data"
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 1,
+  "fields": {
+    "name": "TRON",
+    "ids": "tron",
+    "symbol": "TRX",
+    "cryptype": "Token",
+    "proof": "N/A",
+    "algorithm": "N/A",
+    "link": "https://tronlab.com/",
+    "icon": "https://cdn.coinranking.com/B10WKs76Z/trx.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 2,
+  "fields": {
+    "name": "Zcash",
+    "ids": "zcash",
+    "symbol": "ZEC",
+    "cryptype": "Coin",
+    "proof": "Equihash",
+    "algorithm": "PoW",
+    "link": "https://z.cash/",
+    "icon": "https://cdn.coinranking.com/rJrKiS_uZ/zec.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 3,
+  "fields": {
+    "name": "Veritaseum",
+    "ids": "veritaseum",
+    "symbol": "VERI",
+    "cryptype": "Token",
+    "proof": "N/A",
+    "algorithm": "N/A",
+    "link": "http://veritas.veritaseum.com/",
+    "icon": "https://cdn.coinranking.com/SJE0orHtW/veri.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 4,
+  "fields": {
+    "name": "Status",
+    "ids": "status",
+    "symbol": "SNT",
+    "cryptype": "Token",
+    "proof": "N/A",
+    "algorithm": "N/A",
+    "link": "http://status.im/",
+    "icon": "https://cdn.coinranking.com/B1MQMP__Z/snt.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 5,
+  "fields": {
+    "name": "Qtum",
+    "ids": "qtum",
+    "symbol": "QTUM",
+    "cryptype": "Coin",
+    "proof": "POS 3.0",
+    "algorithm": "PoS",
+    "link": "https://qtum.org/",
+    "icon": "https://cdn.coinranking.com/HJ7woSuuW/qtum.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 6,
+  "fields": {
+    "name": "MonaCoin",
+    "ids": "monacoin",
+    "symbol": "MONA",
+    "cryptype": "Coin",
+    "proof": "Scrypt",
+    "algorithm": "PoW",
+    "link": "http://monacoin.org",
+    "icon": "https://cdn.coinranking.com/SkxEgPdd-/mona.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 7,
+  "fields": {
+    "name": "Augur",
+    "ids": "augur",
+    "symbol": "REP",
+    "cryptype": "Token",
+    "proof": "N/A",
+    "algorithm": "N/A",
+    "link": "http://www.augur.net/",
+    "icon": "https://cdn.coinranking.com/H1GlZLd_Z/rep.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 8,
+  "fields": {
+    "name": "Tether",
+    "ids": "tether",
+    "symbol": "USDT",
+    "cryptype": "Token",
+    "proof": "N/A",
+    "algorithm": "N/A",
+    "link": "https://tether.to",
+    "icon": "https://cdn.coinranking.com/SJs1nH_OZ/usdt.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 9,
+  "fields": {
+    "name": "Dash",
+    "ids": "dash",
+    "symbol": "DASH",
+    "cryptype": "Coin",
+    "proof": "X11",
+    "algorithm": "PoW/PoS",
+    "link": "https://www.dash.org/",
+    "icon": "https://cdn.coinranking.com/BkIK5rOd-/dash.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 10,
+  "fields": {
+    "name": "Komodo",
+    "ids": "komodo",
+    "symbol": "KMD",
+    "cryptype": "Coin",
+    "proof": "Equihash",
+    "algorithm": "dPoW/PoW",
+    "link": "https://komodoplatform.com/",
+    "icon": "https://cdn.coinranking.com/SyobU8dOb/kmd.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 11,
+  "fields": {
+    "name": "Verge",
+    "ids": "verge",
+    "symbol": "XVG",
+    "cryptype": "Coin",
+    "proof": "Multiple",
+    "algorithm": "PoW",
+    "link": "http://vergecurrency.com/",
+    "icon": "https://cdn.coinranking.com/SklJgPdu-/xvg.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 12,
+  "fields": {
+    "name": "Lisk",
+    "ids": "lisk",
+    "symbol": "LSK",
+    "cryptype": "Coin",
+    "proof": "DPoS",
+    "algorithm": "DPoS",
+    "link": "https://lisk.io/",
+    "icon": "https://cdn.coinranking.com/SydghSdub/lsk.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 13,
+  "fields": {
+    "name": "BitConnect",
+    "ids": "bitconnect",
+    "symbol": "BCC",
+    "cryptype": "Coin",
+    "proof": "#N/A",
+    "algorithm": "#N/A",
+    "link": "https://bitconnectcoin.co/",
+    "icon": "https://cdn.coinranking.com/SJN4sHdO-/bcc.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 14,
+  "fields": {
+    "name": "Waves",
+    "ids": "waves",
+    "symbol": "WAVES",
+    "cryptype": "Coin",
+    "proof": "Leased POS",
+    "algorithm": "LPoS",
+    "link": "https://wavesplatform.com/",
+    "icon": "https://cdn.coinranking.com/B1tzRbyMz/waves.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 15,
+  "fields": {
+    "name": "Hshare",
+    "ids": "hshare",
+    "symbol": "HSR",
+    "cryptype": "Coin",
+    "proof": "N/A",
+    "algorithm": "PoW/PoS",
+    "link": "https://h.cash/",
+    "icon": "https://cdn.coinranking.com/HJ6OlzVKW/hsr.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 16,
+  "fields": {
+    "name": "Populous",
+    "ids": "populous",
+    "symbol": "PPT",
+    "cryptype": "Token",
+    "proof": "N/A",
+    "algorithm": "N/A",
+    "link": "http://populous.co/",
+    "icon": "https://cdn.coinranking.com/HyCw7LOdZ/ppt.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 17,
+  "fields": {
+    "name": "Ripple",
+    "ids": "ripple",
+    "symbol": "XRP",
+    "cryptype": "Coin",
+    "proof": "N/A",
+    "algorithm": "N/A",
+    "link": "https://ripple.com/",
+    "icon": "https://cdn.coinranking.com/Bkuz9Hd_-/xrp.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 18,
+  "fields": {
+    "name": "PIVX",
+    "ids": "pivx",
+    "symbol": "PIVX",
+    "cryptype": "Coin",
+    "proof": "Quark",
+    "algorithm": "PoW/PoS",
+    "link": "http://www.pivx.org",
+    "icon": "https://cdn.coinranking.com/BknhDIOu-/pivx.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 19,
+  "fields": {
+    "name": "DigiByte",
+    "ids": "digibyte",
+    "symbol": "DGB",
+    "cryptype": "Coin",
+    "proof": "Multiple",
+    "algorithm": "PoW",
+    "link": "http://www.digibyte.io/",
+    "icon": "https://cdn.coinranking.com/SyzuwIudW/dgb.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 20,
+  "fields": {
+    "name": "Bitcoin Cash",
+    "ids": "bitcoin-cash",
+    "symbol": "BCH",
+    "cryptype": "Coin",
+    "proof": "SHA256",
+    "algorithm": "PoW",
+    "link": "https://www.bitcoincash.org/",
+    "icon": "https://cdn.coinranking.com/SkdJqSuuW/bch.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 21,
+  "fields": {
+    "name": "Dogecoin",
+    "ids": "dogecoin",
+    "symbol": "DOGE",
+    "cryptype": "Coin",
+    "proof": "Scrypt",
+    "algorithm": "PoW",
+    "link": "http://dogecoin.com/",
+    "icon": "https://cdn.coinranking.com/H1arXIuOZ/doge.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 22,
+  "fields": {
+    "name": "IOTA",
+    "ids": "iota",
+    "symbol": "MIOTA",
+    "cryptype": "Coin",
+    "proof": "SHA-3",
+    "algorithm": "DAG",
+    "link": "https://iota.org/",
+    "icon": "https://cdn.coinranking.com/H1IQ9Bdd-/miota.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 23,
+  "fields": {
+    "name": "Ark",
+    "ids": "ark",
+    "symbol": "ARK",
+    "cryptype": "Coin",
+    "proof": "DPoS",
+    "algorithm": "DPoS",
+    "link": "http://ark.io/",
+    "icon": "https://cdn.coinranking.com/HyWBr8_OW/ark.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 24,
+  "fields": {
+    "name": "Litecoin",
+    "ids": "litecoin",
+    "symbol": "LTC",
+    "cryptype": "Coin",
+    "proof": "Scrypt",
+    "algorithm": "PoW",
+    "link": "https://litecoin.com",
+    "icon": "https://cdn.coinranking.com/HyZL5BOOb/ltc.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 25,
+  "fields": {
+    "name": "Monero",
+    "ids": "monero",
+    "symbol": "XMR",
+    "cryptype": "Coin",
+    "proof": "CryptoNight",
+    "algorithm": "PoW",
+    "link": "http://www.monero.cc",
+    "icon": "https://cdn.coinranking.com/Syz-oSd_Z/xmr.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 26,
+  "fields": {
+    "name": "Stratis",
+    "ids": "stratis",
+    "symbol": "STRAT",
+    "cryptype": "Coin",
+    "proof": "X13",
+    "algorithm": "PoW/PoS",
+    "link": "http://stratisplatform.com/",
+    "icon": "https://cdn.coinranking.com/SyEuoBu_W/strat.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 27,
+  "fields": {
+    "name": "NEM",
+    "ids": "nem",
+    "symbol": "XEM",
+    "cryptype": "Coin",
+    "proof": "N/A",
+    "algorithm": "PoI",
+    "link": "http://nem.io",
+    "icon": "https://cdn.coinranking.com/Bkvu9rOOZ/xem.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 28,
+  "fields": {
+    "name": "EOS",
+    "ids": "eos",
+    "symbol": "EOS",
+    "cryptype": "Token",
+    "proof": "DPoS",
+    "algorithm": "DPoS",
+    "link": "https://eos.io/",
+    "icon": "https://cdn.coinranking.com/H1YjiSd_-/eos.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 29,
+  "fields": {
+    "name": "OmiseGO",
+    "ids": "omisego",
+    "symbol": "OMG",
+    "cryptype": "Token",
+    "proof": "N/A",
+    "algorithm": "PoS",
+    "link": "https://omg.omise.co/",
+    "icon": "https://cdn.coinranking.com/BJGUoHu_Z/omg.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 30,
+  "fields": {
+    "name": "Ardor",
+    "ids": "ardor",
+    "symbol": "ARDR",
+    "cryptype": "Token",
+    "proof": "N/A",
+    "algorithm": "PoS",
+    "link": "https://www.ardorplatform.org/",
+    "icon": "https://cdn.coinranking.com/HyZRH8d_W/ardr.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 31,
+  "fields": {
+    "name": "Ethereum",
+    "ids": "ethereum",
+    "symbol": "ETH",
+    "cryptype": "Coin",
+    "proof": "Ethash",
+    "algorithm": "PoW",
+    "link": "https://www.ethereum.org/",
+    "icon": "https://cdn.coinranking.com/rk4RKHOuW/eth.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 32,
+  "fields": {
+    "name": "RaiBlocks",
+    "ids": "raiblocks",
+    "symbol": "XRB",
+    "cryptype": "Coin",
+    "proof": "#N/A",
+    "algorithm": "#N/A",
+    "link": "https://raiblocks.net/",
+    "icon": "https://cdn.coinranking.com/B1b-YYaWG/xrb.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 33,
+  "fields": {
+    "name": "Bitcoin Gold",
+    "ids": "bitcoin-gold",
+    "symbol": "BTG",
+    "cryptype": "Coin",
+    "proof": "Equihash",
+    "algorithm": "PoW",
+    "link": "https://bitcoingold.org/",
+    "icon": "https://cdn.coinranking.com/BkLedkw-G/btg.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 34,
+  "fields": {
+    "name": "Siacoin",
+    "ids": "siacoin",
+    "symbol": "SC",
+    "cryptype": "Coin",
+    "proof": "Blake2b",
+    "algorithm": "PoW",
+    "link": "http://sia.tech/",
+    "icon": "https://cdn.coinranking.com/Hkvu-8d_-/sc.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 35,
+  "fields": {
+    "name": "BitShares",
+    "ids": "bitshares",
+    "symbol": "BTS",
+    "cryptype": "Coin",
+    "proof": "SHA-512",
+    "algorithm": "PoS",
+    "link": "https://bitshares.org",
+    "icon": "https://cdn.coinranking.com/B1TCoS_O-/bts.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 36,
+  "fields": {
+    "name": "Stellar",
+    "ids": "stellar",
+    "symbol": "XLM",
+    "cryptype": "Coin",
+    "proof": "N/A",
+    "algorithm": "N/A",
+    "link": "https://www.stellar.org",
+    "icon": "https://cdn.coinranking.com/HyAEXLuOZ/xlm.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 37,
+  "fields": {
+    "name": "Byteball Bytes",
+    "ids": "byteball",
+    "symbol": "GBYTE",
+    "cryptype": "Coin",
+    "proof": "N/A",
+    "algorithm": "N/A",
+    "link": "https://byteball.org/",
+    "icon": "https://cdn.coinranking.com/SJQXHLO_Z/gbyte.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 38,
+  "fields": {
+    "name": "SALT",
+    "ids": "salt",
+    "symbol": "SALT",
+    "cryptype": "Token",
+    "proof": "N/A",
+    "algorithm": "N/A",
+    "link": "https://www.saltlending.com/",
+    "icon": "https://cdn.coinranking.com/BkEvjH0ib/salt.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 39,
+  "fields": {
+    "name": "Ethereum Classic",
+    "ids": "ethereum-classic",
+    "symbol": "ETC",
+    "cryptype": "Coin",
+    "proof": "Ethash",
+    "algorithm": "PoW",
+    "link": "https://ethereumclassic.github.io/",
+    "icon": "https://cdn.coinranking.com/rJfyor__W/etc.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 40,
+  "fields": {
+    "name": "Cardano",
+    "ids": "cardano",
+    "symbol": "ADA",
+    "cryptype": "Coin",
+    "proof": "Ouroboros",
+    "algorithm": "PoS",
+    "link": "https://www.cardanohub.org/",
+    "icon": "https://cdn.coinranking.com/ryY28nXhW/ada.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 41,
+  "fields": {
+    "name": "Binance Coin",
+    "ids": "binance-coin",
+    "symbol": "BNB",
+    "cryptype": "Token",
+    "proof": "N/A",
+    "algorithm": "N/A",
+    "link": "https://www.binance.com/",
+    "icon": "https://cdn.coinranking.com/B1N19L_dZ/bnb.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 42,
+  "fields": {
+    "name": "NEO",
+    "ids": "neo",
+    "symbol": "NEO",
+    "cryptype": "Coin",
+    "proof": "N/A",
+    "algorithm": "N/A",
+    "link": "https://neo.org/",
+    "icon": "https://cdn.coinranking.com/Bkop5Hu_Z/neo.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 43,
+  "fields": {
+    "name": "Decred",
+    "ids": "decred",
+    "symbol": "DCR",
+    "cryptype": "Coin",
+    "proof": "BLAKE256",
+    "algorithm": "PoW/PoS",
+    "link": "https://www.decred.org/",
+    "icon": "https://cdn.coinranking.com/SyJaBU_dZ/dcr.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 44,
+  "fields": {
+    "name": "Bitcoin",
+    "ids": "bitcoin",
+    "symbol": "BTC",
+    "cryptype": "Coin",
+    "proof": "SHA-256d",
+    "algorithm": "PoW",
+    "link": "https://bitcoin.org/",
+    "icon": "https://cdn.coinranking.com/Sy33Krudb/btc.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 45,
+  "fields": {
+    "name": "Steem",
+    "ids": "steem",
+    "symbol": "STEEM",
+    "cryptype": "Coin",
+    "proof": "N/A",
+    "algorithm": "PoW",
+    "link": "https://steem.io/",
+    "icon": "https://cdn.coinranking.com/SkkCsr_OW/steem.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 46,
+  "fields": {
+    "name": "Golem",
+    "ids": "golem-network-tokens",
+    "symbol": "GNT",
+    "cryptype": "Token",
+    "proof": "N/A",
+    "algorithm": "N/A",
+    "link": "https://golem.network/",
+    "icon": "https://cdn.coinranking.com/rkzb-Uuu-/gnt.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 47,
+  "fields": {
+    "name": "Nxt",
+    "ids": "nxt",
+    "symbol": "NXT",
+    "cryptype": "Coin",
+    "proof": "PoS",
+    "algorithm": "PoS/LPoS",
+    "link": "https://nxt.org/",
+    "icon": "https://cdn.coinranking.com/rkEsD8u_W/nxt.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 48,
+  "fields": {
+    "name": "Electroneum",
+    "ids": "electroneum",
+    "symbol": "ETN",
+    "cryptype": "Coin",
+    "proof": "N/A",
+    "algorithm": "N/A",
+    "link": "#N/A",
+    "icon": "#N/A",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "cryptodata.data",
+  "pk": 49,
+  "fields": {
+    "name": "Bytecoin",
+    "ids": "bytecoin-bcn",
+    "symbol": "BCN",
+    "cryptype": "Coin",
+    "proof": "CryptoNight",
+    "algorithm": "PoW",
+    "link": "https://bytecoin.org/",
+    "icon": "https://cdn.coinranking.com/rkpGWI_OZ/bcn.svg",
+    "description": "",
+    "rank": 9999,
+    "price_currency": "USD",
+    "price": "0.00",
+    "market_cap_currency": "USD",
+    "market_cap": "0.00",
+    "available_supply": 0.0,
+    "max_supply": 0.0,
+    "percent_change": 0.0
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add user",
+    "content_type": 3,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change user",
+    "content_type": 3,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 3,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add group",
+    "content_type": 4,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change group",
+    "content_type": 4,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 4,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can add data",
+    "content_type": 7,
+    "codename": "add_data"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can change data",
+    "content_type": 7,
+    "codename": "change_data"
+  }
+},
+{
+  "model": "auth.permission",
+  "fields": {
+    "name": "Can delete data",
+    "content_type": 7,
+    "codename": "delete_data"
+  }
+}
+]
