@@ -1,0 +1,1032 @@
+,ranks,ids,names,symbols,type,proof,algorithm,icon,url links,description
+0,1,bitcoin,Bitcoin,BTC,Coin,SHA-256d,PoW,https://cdn.coinranking.com/Sy33Krudb/btc.svg,https://bitcoin.org/,An innovative payment network and a new kind of money.
+1,2,ethereum,Ethereum,ETH,Coin,Ethash,PoW,https://cdn.coinranking.com/rk4RKHOuW/eth.svg,https://www.ethereum.org/,Blockchain app platform
+2,3,ripple,Ripple,XRP,Coin,N/A,N/A,https://cdn.coinranking.com/Bkuz9Hd_-/xrp.svg,https://ripple.com/,The world?s only enterprise blockchain solution for global payments
+3,4,bitcoin-cash,Bitcoin Cash,BCH,Coin,SHA256,PoW,https://cdn.coinranking.com/SkdJqSuuW/bch.svg,https://www.bitcoincash.org/,Peer-to-Peer Electronic Cash
+4,5,litecoin,Litecoin,LTC,Coin,Scrypt,PoW,https://cdn.coinranking.com/HyZL5BOOb/ltc.svg,https://litecoin.com,Global decentralized currency based on blockchain technology
+5,6,cardano,Cardano,ADA,Coin,Ouroboros,PoS,https://cdn.coinranking.com/ryY28nXhW/ada.svg,https://www.cardanohub.org/,Cardano is a decentralised public blockchain and cryptocurrency project and is fully open source. Cardano is developing a smart contract platform which seeks to deliver more advanced features than any protocol previously developed. It is the first blockchain platform to evolve out of a scientific philosophy and a research-first driven approach. The development team consists of a large global collective of expert engineers and researchers
+6,7,iota,IOTA,MIOTA,Coin,SHA-3,DAG,https://cdn.coinranking.com/H1IQ9Bdd-/miota.svg,https://iota.org/,The economy of things. The main innovation behind IOTA is the Tangle
+7,8,dash,Dash,DASH,Coin,X11,PoW/PoS,https://cdn.coinranking.com/BkIK5rOd-/dash.svg,https://www.dash.org/,A revolutionary digital money system.
+8,9,nem,NEM,XEM,Coin,N/A,PoI,https://cdn.coinranking.com/Bkvu9rOOZ/xem.svg,http://nem.io,"The smart asset  blockchain, built for performance. NEM?s blockchain platform was designed and coded from the ground up for scale and speed."
+9,10,bitcoin-gold,Bitcoin Gold,BTG,Coin,Equihash,PoW,https://cdn.coinranking.com/BkLedkw-G/btg.svg,https://bitcoingold.org/,Make bitcoin decentralized again. Bitcoin gold is a fork of the bitcoin blockchain. 
+10,11,monero,Monero,XMR,Coin,CryptoNight,PoW,https://cdn.coinranking.com/Syz-oSd_Z/xmr.svg,http://www.monero.cc,"private digital currency. Monero is a secure, private, and untraceable cryptocurrency."
+11,12,eos,EOS,EOS,Token,DPoS,DPoS,https://cdn.coinranking.com/H1YjiSd_-/eos.svg,https://eos.io/,the most powerful infrastructure for decentralized applications
+12,13,stellar,Stellar,XLM,Coin,N/A,N/A,https://cdn.coinranking.com/HyAEXLuOZ/xlm.svg,https://www.stellar.org,"Stellar is Open-Source, Distributed Payments Infrastructure. It connects people, payment systems, and banks. Integrate with Stellar to move money quickly, reliably, and for a fraction of a penny."
+13,14,qtum,Qtum,QTUM,Coin,POS 3.0,PoS,https://cdn.coinranking.com/HJ7woSuuW/qtum.svg,https://qtum.org/,"the blockchain made ready for business, build decentralized applications that simply work executable on mobile devices, compatible with major existing blockchain ecosystems."
+14,15,neo,NEO,NEO,Coin,N/A,N/A,https://cdn.coinranking.com/Bkop5Hu_Z/neo.svg,https://neo.org/,An Open Network For Smart Economy
+15,16,ethereum-classic,Ethereum Classic,ETC,Coin,Ethash,PoW,https://cdn.coinranking.com/rJfyor__W/etc.svg,https://ethereumclassic.github.io/,"a decentralized platform that runs smart contracts: applications that run˜exactly as programmed without any possibility of downtime, censorship, fraud or third party interference."
+16,17,tron,TRON,TRX,Token,N/A,N/A,https://cdn.coinranking.com/B10WKs76Z/trx.svg,https://tronlab.com/,"Decentralized Trustworthy Application, Smart Contracts empowered by blockchain, Digital Values issued and obtained by everyone, A Next Era of Web 4.0"
+17,18,lisk,Lisk,LSK,Coin,DPoS,DPoS,https://cdn.coinranking.com/SydghSdub/lsk.svg,https://lisk.io/,Blockchain Application Platform
+18,19,bitconnect,BitConnect,BCC,Coin,#N/A,#N/A,https://cdn.coinranking.com/SJN4sHdO-/bcc.svg,https://bitconnectcoin.co/,"Empowering people financially by distributing decentralized value.  It is an open source, peer-to-peer, community driven decentralized cryptocurrency that allow people to store and invest their wealth in a non-government controlled currency, and even earn a substantial interest on investment. This means anyone holding BitConnect Coin in their wallet will receive interest on their balance in return for helping maintain security of the network."
+19,20,verge,Verge,XVG,Coin,Multiple,PoW,https://cdn.coinranking.com/SklJgPdu-/xvg.svg,http://vergecurrency.com/,"Verge is aÿsecureÿandÿanonymousÿcryptocurrency, built with a focus onÿprivacy."
+20,21,zcash,Zcash,ZEC,Coin,Equihash,PoW,https://cdn.coinranking.com/rJrKiS_uZ/zec.svg,https://z.cash/,"Internet money. Bitcoin and most cryptocurrencies expose your entire payment history to the public. Zcash is the first open, permissionless cryptocurrency that can fully protect the privacy of transactions using zero-knowledge cryptography."
+21,22,bitshares,BitShares,BTS,Coin,SHA-512,PoS,https://cdn.coinranking.com/B1TCoS_O-/bts.svg,https://bitshares.org,"your share in the decentralized exchange. Built using the latest in industry research, BitShares 2.0 offers a stack of financial services including exchange and banking on a blockchain."
+22,23,omisego,OmiseGO,OMG,Token,N/A,PoS,https://cdn.coinranking.com/BJGUoHu_Z/omg.svg,https://omg.omise.co/,"Unbank the Banked with Ethereum. OmiseGO is a public Ethereum-based financial technology for use in mainstream digital wallets, that enables real-time, peer-to-peer value exchange and payment services agnostically across jurisdictions and organizational silos, and across both fiat money and decentralized currencies. Designed to enable financial inclusion and disrupt existing institutions, access will be made available to everyone via the OmiseGO network and digital wallet framework."
+23,24,populous,Populous,PPT,Token,N/A,N/A,https://cdn.coinranking.com/HyCw7LOdZ/ppt.svg,http://populous.co/,Invoice discounting for the blockchain era. Rebuilding invoice financing block by block for invoice buyers and sellers.
+24,25,hshare,Hshare,HSR,Coin,N/A,PoW/PoS,https://cdn.coinranking.com/HJ6OlzVKW/hsr.svg,https://h.cash/,"The new standard of value. The Hcash platform is designed to be a side chain for both 
+block-based and blockless-based blockchains. Hcash will be a value and 
+information carrier for major blockchains to enable the exchange of value 
+and information between these systems."
+25,26,waves,Waves,WAVES,Coin,Leased POS,LPoS,https://cdn.coinranking.com/B1tzRbyMz/waves.svg,https://wavesplatform.com/,"Gain access to˜the Waves platform?s solutions for storing, trading, managing and issuing your digital assets, easily and securely."
+26,27,tether,Tether,USDT,Token,N/A,N/A,https://cdn.coinranking.com/SJs1nH_OZ/usdt.svg,https://tether.to,"Digital money for a digital age. Global, fast, and secure. "
+27,28,komodo,Komodo,KMD,Coin,Equihash,dPoW/PoW,https://cdn.coinranking.com/SyobU8dOb/kmd.svg,https://komodoplatform.com/,"Complete blockchain solutions. The Komodo Platform focuses on providing complete end-to-end blockchain solutions for developers of any level and any industry. It is simple yet powerful, offering customized blockchain solutions that are easy to deploy, and configurable to meet your needs. Our vision is to build a robust ecosystem of partners and developers, where together we create an environment that accelerates anyone?s journey into blockchain technology."
+28,29,ardor,Ardor,ARDR,Token,N/A,PoS,https://cdn.coinranking.com/HyZRH8d_W/ardr.svg,https://www.ardorplatform.org/,"A blockchain platform, scalable for business"
+29,30,nxt,Nxt,NXT,Coin,PoS,PoS/LPoS,https://cdn.coinranking.com/rkEsD8u_W/nxt.svg,https://nxt.org/,"Own your data. Control your assets, vote, choices, freedom, name, rights, files, IP, records, trade, market, world, privacy, money, budget."
+30,31,stratis,Stratis,STRAT,Coin,X13,PoW/PoS,https://cdn.coinranking.com/SyEuoBu_W/strat.svg,http://stratisplatform.com/,"We make blockchain easy for you. We offer simple and affordable end-to-end solutions for development, testing and deployment of native C# blockchain applications on the .Net framework."
+31,32,bytecoin-bcn,Bytecoin,BCN,Coin,CryptoNight,PoW,https://cdn.coinranking.com/rkpGWI_OZ/bcn.svg,https://bytecoin.org/,the first private untraceable cryptocurrency
+32,33,augur,Augur,REP,Token,N/A,N/A,https://cdn.coinranking.com/H1GlZLd_Z/rep.svg,http://www.augur.net/,Augur combines the magic of prediction markets with the power of a decentralized network to create a stunningly accurate forecasting tool - and the chance for real money trading profits
+33,34,steem,Steem,STEEM,Coin,N/A,PoW,https://cdn.coinranking.com/SkkCsr_OW/steem.svg,https://steem.io/,Steem powers smart media tokens. Steem is a blockchain-based rewards platform for publishers to monetize content and grow community.
+34,35,monacoin,MonaCoin,MONA,Coin,Scrypt,PoW,https://cdn.coinranking.com/SkxEgPdd-/mona.svg,http://monacoin.org,"First Japanese cryptocurrency, born in December 2013."
+35,36,dogecoin,Dogecoin,DOGE,Coin,Scrypt,PoW,https://cdn.coinranking.com/H1arXIuOZ/doge.svg,http://dogecoin.com/,"Dogecoin is an open source peer-to-peer digital currency, favored by Shiba Inus worldwide. Dogecoin is a decentralized, peer-to-peer digital currency that enables you to easily send money online. Think of it as ""the internet currency."""
+36,37,veritaseum,Veritaseum,VERI,Token,N/A,N/A,https://cdn.coinranking.com/SJE0orHtW/veri.svg,http://veritas.veritaseum.com/,"Enables software-driven P2P capital markets without brokerages, banks or traditional exchanges"
+37,38,ark,Ark,ARK,Coin,DPoS,DPoS,https://cdn.coinranking.com/HyWBr8_OW/ark.svg,http://ark.io/,"all-in-one blockchain solutions. Point. Click. Blockchain. ARK provides users, developers, and startups with innovative blockchain technologies."
+38,39,raiblocks,RaiBlocks,XRB,Coin,#N/A,#N/A,https://cdn.coinranking.com/B1b-YYaWG/xrb.svg,https://raiblocks.net/,RaiBlocks is designed from the ground up forÿscalable instant transactionsÿandÿzero transaction fees.
+39,40,siacoin,Siacoin,SC,Coin,Blake2b,PoW,https://cdn.coinranking.com/Hkvu-8d_-/sc.svg,http://sia.tech/,Your decentralized cloud backend. Welcome to a new era of cloud storage on the blockchain.
+40,41,status,Status,SNT,Token,N/A,N/A,https://cdn.coinranking.com/B1MQMP__Z/snt.svg,http://status.im/,"A Mobile Ethereum OS. Browse, chat and make payments securely on the decentralized web.  "
+41,42,decred,Decred,DCR,Coin,BLAKE256,PoW/PoS,https://cdn.coinranking.com/SyJaBU_dZ/dcr.svg,https://www.decred.org/,Decred is an autonomous digital currency
+42,43,electroneum,Electroneum,ETN,Coin,N/A,N/A,#N/A,#N/A,#N/A
+43,44,pivx,PIVX,PIVX,Coin,Quark,PoW/PoS,https://cdn.coinranking.com/BknhDIOu-/pivx.svg,http://www.pivx.org,"PIVX, Private Instant Verified Transaction, is a privacy-focused, decentralized, open source cryptocurrency run by a global community run by creators, innovators, and technology enthusiasts."
+44,45,binance-coin,Binance Coin,BNB,Token,N/A,N/A,https://cdn.coinranking.com/B1N19L_dZ/bnb.svg,https://www.binance.com/,binance coin ?
+45,46,salt,SALT,SALT,Token,N/A,N/A,https://cdn.coinranking.com/BkEvjH0ib/salt.svg,https://www.saltlending.com/,"Blockchain-backed loands. Hold your assets, get your cash."
+46,47,golem-network-tokens,Golem,GNT,Token,N/A,N/A,https://cdn.coinranking.com/rkzb-Uuu-/gnt.svg,https://golem.network/,"Worldwide supercomputer. GOLEM IS THE NEW WAY THE INTERNET WILL WORK. Golem is a global, open sourced, decentralized supercomputer that anyone can access. It's made up of the combined power of user's machines, from personal laptops to entire datacenters."
+47,48,digibyte,DigiByte,DGB,Coin,Multiple,PoW,https://cdn.coinranking.com/SyzuwIudW/dgb.svg,http://www.digibyte.io/,"DigiByte is a public, rapidly growing and highly decentralized blockchain. DigiBytes are digitalÿassets that cannot be destroyed, counterfeited or hacked, making them ideal forÿprotecting objects of value like currency, information, property or important digital data."
+48,49,byteball,Byteball Bytes,GBYTE,Coin,N/A,N/A,https://cdn.coinranking.com/SJQXHLO_Z/gbyte.svg,https://byteball.org/,Smart payments made simple. 
+49,50,bytom,Bytom,BTM,Coin,Scrypt,PoW,https://cdn.coinranking.com/HJX2LIdu-/btm.svg,http://bytom.io/,"Bytom is an interactive protocol of multiple byte assets. Heterogeneous byte-assets (indigenous digital currency, digital assets) that operate in different forms on the Bytom Blockchain and atomic assets (warrants, securities, dividends, bonds, intelligence information, forecasting information and other information that exist in the physical world) can be registered, exchanged, gambled and engaged in other more complicated and contract-based interoperations via Bytom."
+50,51,vechain,VeChain,VET,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+51,52,power-ledger,Power Ledger,POWR,Token,N/A,N/A,https://cdn.coinranking.com/media/12318301/powr.png?width=46,https://powerledger.io/,WELCOME TO THE TOKEN GENERATION EVENT. Owned by the people of the world. 
+52,53,walton,Walton,WTC,Token,N/A,N/A,https://cdn.coinranking.com/ry4WyCuAW/wtc.svg,http://www.waltonchain.org/,Blockchain + RFID. Integreationg blockchain with IOT.
+53,54,factom,Factom,FCT,Coin,N/A,N/A,https://cdn.coinranking.com/SJkSWUdOZ/fct.svg,http://factom.org/,"A practical blockchain solution for those seeking a collaborative platform to preserve, ensure and validate digital assets."
+54,55,vertcoin,Vertcoin,VTC,Coin,Lyra2RE,PoW,https://cdn.coinranking.com/H1W-WvO_-/vtc.svg,http://vertcoin.org/,Vertcoin is a decentralized currency owned by its users. The people's coin.
+55,56,tenx,TenX,PAY,Token,N/A,N/A,https://cdn.coinranking.com/BJlaoBu_-/pay.svg,https://www.tenx.tech/,"Convert and spend virtual currencies. Anytime. Anywhere. The TenX wallet and card* have been tested by well-known figures in the industry with payments in 50 countries across the world. Available now on iOS, Android, and the web."
+56,57,maidsafecoin,MaidSafeCoin,MAID,Token,N/A,N/A,https://cdn.coinranking.com/HJjQZLd_Z/maid.svg,http://maidsafe.net,"The World's First Autonomous Data Network. Blockchain based storage solutions that store a data identifier (e.g. hash) in a blockchain, but store the data 'somewhere else' do not improve the security of our data. That 'somewhere else' still needs to be secured, and if this data can be deleted, or our access denied these 'solutions' are not fit for purpose. The SAFE Network removes people from the management of our information to protect the world's data."
+57,58,zcoin,ZCoin,XZC,Coin,Lyra2RE,PoW,https://cdn.coinranking.com/HkGDewuO-/xzc.svg,https://zcoin.io,"Zcoin is the first full implementation of the Zerocoin Protocol, which allows users to have complete privacy via Zero-Knowledge cryptographic proofs. It is worth noting that Zcoin is unrelated to other cryptocurrencies utilizing the Zerocash Protocol. Although Zerocash is a development from Zerocoin, their respective implementations are not simple forks of each other, but rely on different cryptographic assumptions with various tradeoffs. Both approaches supplement each other quite nicely, and a good way to describe them would be sibling projects."
+58,59,aeternity,Aeternity,AE,Token,N/A,PoW/PoS,https://cdn.coinranking.com/HJg3pANTZ/ae.svg,https://www.aeternity.com/,"‘ternity is a new blockchain technology, designed to deliver unmatched efficiency, transparent governance and global scalability."
+59,60,basic-attention-token,Basic Attention Token,BAT,Coin,N/A,N/A,https://cdn.coinranking.com/ByEwr8__W/dgd.svg,https://basicattentiontoken.org/,"Blockchain-based digital advertising. Basic Attention Token radically improves the efficiency of digital advertising by creating a new token that can be exchanged between publishers, advertisers, and users. It all happens on the Ethereum blockchain. "
+60,61,kyber-network,Kyber Network,KNC,Coin,N/A,N/A,https://cdn.coinranking.com/Hywqh6d0Z/kcn.svg,https://kyber.network/,"KyberNetwork is a new system which allows the exchange and conversion of digital assets. 
+We provide rich payment APIs and a new contract wallet that allow anyone to seamlessly receive payments from any token. "
+61,62,qash,QASH,QASH,Token,N/A,N/A,https://cdn.coinranking.com/Hywqh6d0Z/kcn.svg,https://liquid.plus/,"The next Bitcoin or Ethereum for financial services. Providing LIQUIDITY to
+the Non-Liquid Crypto Economy. LIQUIDITY, the lifeblood of every industry,
+is the single most important element lacking
+in the crypto economy today."
+62,63,bitcoindark,BitcoinDark,BTCD,Coin,SHA256,PoW/PoS,https://cdn.coinranking.com/S10Nxvdub/san.svg,http://bitcoindark.com/,Paving the Way to Financial Inclusion for Everyone.
+63,64,digixdao,DigixDAO,DGD,Token,N/A,N/A,https://cdn.coinranking.com/ByEwr8__W/dgd.svg,https://digix.io/,"The Gold Standard in Distributed Ledger Technology (DLT). Digix tokenizes gold on Ethereum. We leverage the Distributed Ledger for its immutability, transparency and auditability by applying it to precious physical assets.
+Digix has created a range of technologies including The Proof of Asset Protocol (POA) and Digix Gold Tokens (DGX) on Ethereum."
+64,65,syscoin,Syscoin,SYS,Coin,Scrypt,PoW,https://cdn.coinranking.com/r1MFdIddZ/btcd.svg,http://syscoin.org,"Syscoin is a global network, a distributed ledger, a decentralized database and a blockchain. It is also a cryptocurrency, an altcoin, a digital currency and a tradeable token.
+Syscoin is based on a fork of the Bitcoin protocol and is merge-mined with Bitcoin, giving us one of the most secure, stable and scalable networks to ever exist on the planet."
+65,66,gas,Gas,GAS,Token,N/A,N/A,https://cdn.coinranking.com/rJMSO8ddb/neo.svg,https://neo.org/,"NEO is a non-profit community-based blockchain project that utilizes blockchain technology and digital identity to digitize assets, to automate the management of digital assets using smart contracts, and to realize a ""smart economy"" with a distributed network."
+66,67,gamecredits,GameCredits,GAME,Coin,Scrypt,PoW,https://cdn.coinranking.com/ByPxLI_db/game.svg,http://gamecredits.com,GameCredits is a universal currency and virtual wallet for 2.6 billion gamers worldwide.
+67,68,0x,0x,ZRX,Token,N/A,N/A,https://cdn.coinranking.com/Hy7oqBSFW/zrx.svg,https://0xproject.com/,"0x is an open, permissionless protocol allowing for ERC20 tokens to be traded on the Ethereum blockchain."
+68,69,einsteinium,Einsteinium,EMC2,Coin,Scrypt,PoW,https://cdn.coinranking.com/HJt_qIu_-/sys.svg,https://www.emc2.foundation/,Funding the future with the future of currency. The Einsteinium Foundation?s mission is to raise funds for scientific research. Our mining tax creates a pool of funds that provide grants to deserving applicants.
+69,70,santiment,Santiment Network Token,SAN,Token,N/A,N/A,https://cdn.coinranking.com/S10Nxvdub/san.svg,https://santiment.net/,"A Better Way to Trade Crypto-Markets. Market Datafeeds, Newswires, and Crowd Sentiment Insights for the Blockchain World"
+70,71,decentraland,Decentraland,MANA,Token,N/A,N/A,https://cdn.coinranking.com/rJEGUyvbf/mana.svg,https://decentraland.org/,"A virtual world that runs on open standards. Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize content and applications. Decentraland is the first virtual platform owned by its users.
+Grab a VR headset or use your web browser and become completely immersed in a 3D, interactive world"
+71,72,gxshares,GXShares,GXS,Coin,#N/A,#N/A,https://cdn.coinranking.com/H1_JAANaW/gxs.svg,https://gxs.gxb.io/,Everyone needs data and credit services
+72,73,aion,Aion,AION,Token,#N/A,#N/A,https://cdn.coinranking.com/HkLZ5Kpbf/aion.svg,https://aion.network/,The Third Generation Blockchain Network. 
+73,74,bitbay,BitBay,BAY,Coin,N/A,PoS,https://cdn.coinranking.com/media/1383137/bay1.png?width=46,http://bitbay.market/,"The Future
+of Free Markets. BitBay is the world's first fully-functional decentralized marketplace."
+74,75,reddcoin,ReddCoin,RDD,Coin,Scrypt,PoW/PoS,https://cdn.coinranking.com/By1bgDdOb/rdd.svg,http://www.reddcoin.com/,Reddcoin is the social currency that enriches people?s social lives and makes digital currency easy for the general public.
+75,76,funfair,FunFair,FUN,Token,N/A,N/A,https://cdn.coinranking.com/HyPKwU_uZ/fun.svg,https://funfair.io/,"Starting an online casino is complicated and expensive, and that?s before you try to attract players and earn their trust. Using blockchain technology to simplify setup and reduce costs, FunFair enables anyone, anywhere to run their own casino."
+76,77,dragonchain,Dragonchain,DRGN,Token,#N/A,#N/A,https://cdn.coinranking.com/media/16746490/drgn.png?width=46,https://dragonchain.com/,"Blockchain business magic. Be a part of the most secure, flexible, and business ready blockchain platform,
+and ecosystem."
+77,78,iconomi,Iconomi,ICN,Coin,N/A,N/A,https://cdn.coinranking.com/HyHZhSd_b/icn.svg,https://www.iconomi.net/,The ICONOMI Digital Assets Management Platform is a new and unique technical service that allows anyone from beginners to blockchain experts to invest in and manage digital assets.
+78,79,ethos,Ethos,ETHOS,Token,N/A,N/A,https://cdn.coinranking.com/S1IeLQnef/ethos.svg,https://www.ethos.io/,Ethos is pioneering a ?mobile-first? approach that will?create a bridge between the past and future of finance.
+79,80,civic,Civic,CVC,Token,N/A,N/A,https://cdn.coinranking.com/ry7EHLuu-/cvc.svg,https://www.civic.com/,Civic secure identity ecosystem. We are giving businesses and individuals the tools to control and protect identities
+80,81,cryptonex,Cryptonex,CNX,Coin,N/A,N/A,https://cdn.coinranking.com/ByPxLI_db/game.svg,https://cryptonex.org/,"A global blockchain acquiring.  Cryptonex is a global, decentralized new generation cryptocurrency. It is created on its own blockchain platform. The main goal is to offer the opportunity to exchange any world's currencies for any cryptocurrencies and tokens, buy goods and services using mobile phones and payment cards instantly, with minimum commission."
+81,82,nexus,Nexus,NXS,Coin,SHA3,PoW/nPoS,https://cdn.coinranking.com/SkbAT0VaZ/nxs.svg,http://www.nexusearth.com/,"Nexus (NXS) is a cryptocurrency that does more than send money.As a byproduct of mining, it finds dense clusters of prime numbers.Follow the link below to learn more about Nexus Primes."
+82,83,gnosis-gno,Gnosis,GNO,Token,N/A,N/A,https://cdn.coinranking.com/r16I7Lud-/gno.svg,https://gnosis.pm/,Gnosis is the easiest way to aggregate relevant information from both human and AI agents into one number
+83,84,metal,Metal,MTL,Token,N/A,PoPP,https://cdn.coinranking.com/HJfUS8udb/mtl.svg,https://www.metalpay.com/,METAL (MTL) is our native currency. METAL is fairly distributed through a process known as: Proof of Processed Payments (PoPP). When you send money or make purchases you earn a little reward in METAL for every dollar you spend
+84,85,monaco,Monaco,MCO,Token,N/A,N/A,https://cdn.coinranking.com/HkyxPIdO-/mco.svg,https://www.mona.co/,"Spend anywhere, without fees"
+85,86,raiden-network-token,Raiden Network Token,RDN,Token,#N/A,#N/A,https://cdn.coinranking.com/SyuVgXngM/rdn.svg,https://raiden.network/,"The Raiden Network is an off-chain scaling solution, enabling near-instant, low-fee and scalable payments. It?s complementary to the Ethereum blockchain and works with any ERC20 compatible token. The Raiden project isÿwork in progress. Its goal is to research state channel technology, define protocols and develop reference implementations."
+86,87,request-network,Request Network,REQ,Token,N/A,N/A,https://cdn.coinranking.com/BywMiFa-z/req.svg,https://request.network/,"A decentralized network built on top of Ethereum, which allows anyone, anywhere to request a payment."
+87,88,time-new-bank,Time New Bank,TNB,Token,#N/A,#N/A,https://cdn.coinranking.com/media/16746672/tnb.png?width=46,https://delphy.org/,0
+88,89,streamr-datacoin,Streamr DATAcoin,DATA,Token,N/A,N/A,https://cdn.coinranking.com/HJLwxxWJz/data.svg,https://www.streamr.com/,"Streamr provides a complete system to create unstoppable real-time data apps, even without writing code. Currently, the valuable data you produce is at the mercy of large corporations. In the Streamr network, it?s yours to use and sell as you wish, and travels through a decentralised peer-to-peer network controlled by no one and incentivized by the DATAcoin token."
+89,90,bancor,Bancor,BNT,Token,N/A,N/A,https://cdn.coinranking.com/ryEqP8u_-/bnt.svg,https://bancor.network/,"Bancor is a Decentralized Liquidity Network that allows you to hold any Ethereum token and convert it to any other token in the network, with no counter party, at an automatically calculated price, using a simple web wallet."
+90,91,chainlink,ChainLink,LINK,Token,N/A,N/A,#N/A,https://smartcontract.com/,"Connect Smart Contracts to your Apps & Data. Easily connect smart contracts to your web application, any API, and widely accepted USD payments."
+91,92,storj,Storj,STORJ,Token,N/A,N/A,https://cdn.coinranking.com/r1KI_IduZ/storj.svg,https://storj.io/,"Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data."
+92,93,blocknet,Blocknet,BLOCK,Coin,N/A,PoW/PoS,https://cdn.coinranking.com/r1pKhuvRW/block.svg,http://blocknet.co/,"The Blocknet is a revolutionary advancement in cryptographic technology: a true peer-to-peer protocol between nodes onÿdifferentÿblockchains. This is the foundation of a technology stack incorporating an API and an application platform, which enables open-ended application possibilities and vastly reduces development time."
+93,94,groestlcoin,Groestlcoin,GRS,Coin,Groestl,PoW,https://cdn.coinranking.com/S1MGvOPCW/grs.svg,http://www.groestlcoin.org/,"A multipurpose cryptocurrency that has
+Instant & Private transactions with subAtomic fees."
+94,95,nav-coin,NAV Coin,NAV,Coin,X13,PoW/PoS,https://cdn.coinranking.com/media/351431/nav.png?width=46,http://www.navcoin.org/,"Nav Coin is a decentralized cryptocurrency built on top of the latest version of Bitcoin Core, with added features and functionality. Nav Coin was created to make online payments easy to do, at low cost, and all the while making sure to protect your privacy."
+95,96,ubiq,Ubiq,UBQ,Coin,Dagger-Hashimoto,PoW,https://cdn.coinranking.com/SJgD58__W/ubq.svg,http://ubiqsmart.com/,Ubiq is a decentralized platform which allows the creation and implementation of smart contracts and decentralized applications.ÿ
+96,97,paypie,PayPie,PPP,Token,#N/A,#N/A,https://cdn.coinranking.com/media/12318216/ppp.png?width=46,https://www.paypie.com/,Credit Risk Assessmenton Business Accounting. PayPie platform brings ultimate trust and transparency to the financial markets by introducing the world?s first risk score algorithm based on business accounting.
+97,98,substratum,Substratum,SUB,Token,N/A,N/A,https://cdn.coinranking.com/ry9SeePbz/sub.svg,https://substratum.net/,"WE ARE THE FOUNDATION 
+OF THE DECENTRALIZED WEB. Substratum is an open-source network that allows anyone to allocate spare computing resources to make the internet a free and fair place for the entire world."
+98,99,asch,Asch,XAS,Coin,N/A,N/A,https://cdn.coinranking.com/media/1383997/xas.png?width=46,https://www.asch.io/,Next Generation Decentralized Application Platform
+99,100,edgeless,Edgeless,EDG,Token,N/A,N/A,https://cdn.coinranking.com/HJ0AdUuO-/edg.svg,https://edgeless.io/,First Ethereum based casino. Experience fully transparent and 0% edge gambling online. 
+100,101,ink,Ink,INK,Token,#N/A,#N/A,https://cdn.coinranking.com/H1y67zOzM/ink.svg,https://ink.one/,"CREATIVE MINDS DESERVE INK. The vision of Ink is to provide Sovereign Consortium Blockchains to different use cases, to build a blockchain based infrastructure for the Creative Industry where various applications were possible and correlate to each other in one system"
+101,102,sonm,SONM,SNM,Token,N/A,N/A,https://cdn.coinranking.com/B1tFxPdd-/snm.svg,https://sonm.io/,"Supercomputer Organized 
+by Network Mining. 
+SONM's secure and cost-effective fog supercomputer is designed for general-purpose computing, from mobile app hosting to video rendering to DNA analysis. Miners all over the world can leverage their idle computer power to become part of the SONM network."
+102,103,zencash,ZenCash,ZEN,Coin,Equihash,PoW,https://cdn.coinranking.com/rJyvvMAAZ/zen.svg,https://zensystem.io/,"The world's first private, distributed, and reliable platform for communications, transactions, and publishing."
+103,104,kin,Kin,KIN,Token,#N/A,#N/A,https://cdn.coinranking.com/rJDpy02JM/kin.svg,https://kin.kik.com,0
+104,105,adx-net,AdEx,ADX,Token,N/A,N/A,https://cdn.coinranking.com/ryAjnLwRZ/icon.svg,https://www.adex.network/,"AdEx is a blockchain-basedÿad exchangeÿaiming at disrupting the existing online advertising landscape and address its significant problems: advertising fraud, privacy and consent to receiving sponsored messages, etc."
+105,106,hempcoin,HempCoin,THC,Coin,Scrypt,PoW/PoS,https://cdn.coinranking.com/media/350941/hmp.png?width=46,http://hempcoin.org/,0
+106,107,metaverse,Metaverse ETP,ETP,Coin,Ethash,N/A,https://cdn.coinranking.com/ByRxGl-kf/etp.svg,https://mvs.org/,"Metaverse is a leading public blockchain based in China. Designed to facilitate low-cost, convenient transfer of digitized personal data and assets with unprecedented security and privacy"
+107,108,peercoin,Peercoin,PPC,Coin,N/A,N/A,https://cdn.coinranking.com/BytuoI__W/ppc.svg,http://www.peercoin.net,"?Peercoin seeks to be the most secure cryptocoin at the lowest cost, rewarding all users for strengthening the network by giving them a 1% annual PPC return when minting."
+108,109,agoras-tokens,Agoras Tokens,AGRS,Token,N/A,N/A,https://cdn.coinranking.com/media/1383839/agrs.png?width=46,http://www.idni.org/,"An intelligent market built upon Tau-Chain to feature intelligent personal agents, programming market, computational power market, and a futuristic search engine."
+109,110,dent,Dent,DENT,Token,#N/A,#N/A,https://cdn.coinranking.com/media/1383613/dent.png?width=46,https://www.dentcoin.com/,0
+110,111,rchain,RChain,RHOC,Token,#N/A,#N/A,https://cdn.coinranking.com/Hko33yvWG/rchain.svg,https://www.rchain.coop/," 
+
+ 
+
+ 
+
+SCALABLE BLOCKCHAIN APPLICATIONS "
+111,112,ripio-credit-network,Ripio Credit Network,RCN,Coin,N/A,PoW,https://cdn.coinranking.com/H1FeC7hkM/rcn.svg,https://ripiocredit.network/,A global peer-to-peer credit network based on co-signed smart contracts.
+112,113,singulardtv,SingularDTV,SNGLS,Token,N/A,N/A,https://cdn.coinranking.com/BknGuLu_-/sngls.svg,https://singulardtv.com/,"SingularDTV is a blockchain entertainment studio laying the foundation for a decentralized entertainment industry. Building the future of rights management, project funding, and peer-to-peer distribution, SingularDTV?s platform empowers artists and creators with powerful tools to manage projects from development to distribution."
+113,114,achain,Achain,ACT,Coin,#N/A,#N/A,https://cdn.coinranking.com/r13SXTBez/achain.png?width=46,https://www.achain.com/,"To Build a Boundless Blockchain Reality. Achain is a public blockchain platform that enables developers of all levels of experience to issue tokens, smart contracts, create applications and blockchain systems"
+114,115,quantstamp,Quantstamp,QSP,Token,N/A,N/A,https://cdn.coinranking.com/media/15887408/qsp.png?width=46,https://quantstamp.com/,The Protocol for Securing Smart Contracts
+115,116,aragon,Aragon,ANT,Token,N/A,N/A,https://cdn.coinranking.com/BJceOL__-/ant.svg,https://aragon.one/,Unstoppable organizations. Create value without borders or intermediaries
+116,117,skycoin,Skycoin,SKY,Coin,N/A,N/A,https://cdn.coinranking.com/rJ0ac8X6-/sky.svg,http://skycoin.net/,Skycoin is the third generation of crypto-currency. 
+117,118,pura,Pura,PURA,Coin,X11,PoW,https://cdn.coinranking.com/HyP_60NTZ/pura.svg,http://www.pura.one/,"Puraÿis anÿinternational digital currencyÿthat liberates you toÿtransact with anyone in the world directly, privately and instantly, making your life cheaperÿby removing the expense or need for a middle man like a bank or a payment provider."
+118,119,emercoin,Emercoin,EMC,Coin,SHA256,PoW/PoS,https://cdn.coinranking.com/HkCJtUd_b/emc.svg,http://emercoin.com/,0
+119,120,loopring,Loopring,LRC,Token,N/A,N/A,https://cdn.coinranking.com/r1ihKsmaW/lrc.svg,https://loopring.org,"Decentralized Exchange
+and Open Protocol. Loopring is not only a protocol but also a decentralized automated execution system that trades across the crypto-token exchanges, shielding users from counterparty risk and reducing the cost of trading. "
+120,121,counterparty,Counterparty,XCP,Coin,N/A,PoW,https://cdn.coinranking.com/HyqGoUdO-/xcp.svg,http://counterparty.io/,"Counterparty extends Bitcoin
+in new and powerful ways."
+121,122,xtrabytes,XTRABYTES,XBY,Coin,N/A,PoSign,https://cdn.coinranking.com/media/1383439/xby1.png?width=46,https://www.xtrabytes.global/,0
+122,123,digitalnote,DigitalNote,XDN,Coin,CryptoNight,PoW,https://cdn.coinranking.com/media/19957/xdn.jpg?width=46,http://digitalnote.org/,0
+123,124,neblio,Neblio,NEBL,Coin,N/A,N/A,https://cdn.coinranking.com/ry4bRAETb/nebl.svg,https://nebl.io/,"A secure, distributed, platform built for enterprise applications and services.
+Running on the Neblio blockchain network."
+124,125,particl,Particl,PART,Coin,PoS,PoS,https://cdn.coinranking.com/rJpP2xB6b/part.svg,http://particl.io/,"Particl is privacy & security on the blockchain ? featuring private currency, framework for apps, messaging & self-governance for disrupting ecommerce"
+125,126,quantum-resistant-ledger,Quantum Resistant Ledger,QRL,Token,N/A,PoS,https://cdn.coinranking.com/media/1383543/qrl.png?width=46,https://theqrl.org/,"The Quantum Resistant Ledger (QRL) will be a first of its kind, future-proof post-quantum value store and decentralized communication layer which tackles the threat Quantum Computing will pose to cryptocurrencies."
+126,127,red-pulse,Red Pulse,RPX,Token,N/A,N/A,https://cdn.coinranking.com/media/12318339/rpx.png?width=46,https://www.red-pulse.com/landing,0
+127,128,jinn,Jinn,JINN,Token,#N/A,#N/A,#N/A,http://www.jinnlabs.com,0
+128,129,revain,Revain,R,Token,N/A,N/A,https://cdn.coinranking.com/media/12318360/r.png?width=46,https://revain.org/,"First Unbiased Review Platform, Built With Blockchain Technology."
+129,130,cloakcoin,CloakCoin,CLOAK,Coin,X13,PoW/PoS,https://cdn.coinranking.com/r1k3xPuub/cloak.svg,https://www.cloakcoin.com/,0
+130,131,kucoin-shares,KuCoin Shares,KCS,Coin,N/A,N/A,https://cdn.coinranking.com/ry-IRM5AW/kcs.svg,https://www.kucoin.com/,???
+131,132,viacoin,Viacoin,VIA,Coin,Scrypt,PoW,https://cdn.coinranking.com/Byj5oMqRb/via.svg,http://viacoin.org,The fast and flexible currency for the digital age.
+132,133,poet,Po.et,POE,Token,N/A,N/A,https://cdn.coinranking.com/media/1383828/poe.png?width=46,https://po.et/,0
+133,134,wings,Wings,WINGS,Token,N/A,N/A,https://cdn.coinranking.com/Hkglyi8dO-/wings.svg,https://wings.ai/,WINGS DAO Price Discovery & Promotion Pre-Beta
+134,135,yoyow,YOYOW,YOYOW,Token,N/A,N/A,https://cdn.coinranking.com/media/12318178/yoyow.png?width=46,https://yoyow.org/,Content Excitation Network Based on Blockchain
+135,136,cindicator,Cindicator,CND,Token,N/A,N/A,https://cdn.coinranking.com/media/12318283/cnd.png?width=46,https://cindicator.com/,0
+136,137,enigma-project,Enigma,ENG,Token,N/A,N/A,https://cdn.coinranking.com/r164_kGAb/eng.svg,http://www.enigmacoin.exnet.su/,??
+137,138,smartcash,SmartCash,SMART,Coin,Keccak,PoW,https://cdn.coinranking.com/media/1383906/smart.png?width=46,https://smartcash.cc/,0
+138,139,wabi,WaBi,WABI,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+139,140,melon,Melon,MLN,Token,N/A,N/A,https://cdn.coinranking.com/H1qVo8OuZ/mln.svg,https://melonport.com/,Technology Regulated Investment Funds
+140,141,enjin-coin,Enjin Coin,ENJ,Token,N/A,N/A,https://cdn.coinranking.com/media/11417639/enjt.png?width=46,https://www.enjin.com/,0
+141,142,rlc,iExec RLC,RLC,Token,N/A,N/A,https://cdn.coinranking.com/HJXcqUd_Z/rlc.svg,http://iex.ec/,"Blockchain-Based
+Decentralized. We?re committed to create the next-generation of IT infrastructure by building a new Cloud computing paradigm
+Cloud Computing"
+142,143,mobilego,MobileGo,MGO,Token,N/A,N/A,https://cdn.coinranking.com/ryqpP8duW/mgo.svg,https://mobilego.io/,A dedicated token to bring eSports to everyone. The second gaming revolution is coming
+143,144,centra,Centra,CTR,Token,N/A,N/A,https://cdn.coinranking.com/media/1384029/ctr.png?width=46,https://www.centra.tech/,0
+144,145,delphy,Delphy,DPY,Token,#N/A,#N/A,Null,https://delphy.org/,0
+145,146,library-credit,LBRY Credits,LBC,Coin,N/A,N/A,https://cdn.coinranking.com/SkzslvuOZ/lbc.svg,https://lbry.io/,0
+146,147,attention-token-of-media,ATMChain,ATM,Token,X11,PoW/PoS,https://cdn.coinranking.com/rJ6vNgSp-/atm.svg,https://www.atmchain.io/,CREATE A GLOBAL LEADER IN DECENTRALIZED DIGITAL MEDIA VALUE PLATFORM
+147,148,mercury,Mercury,MER,Token,N/A,N/A,https://cdn.coinranking.com/Sk9ePwudW/mer.svg,https://www.darcr.us/,Darcrus is both the name of the total project as well as the first token of the project. The token can be seen as a representation of the value of Sigwo Technologies. 10% of net profits of Sigwo Technologies will be used to buy back and burn Darcrus from the market.
+148,149,feathercoin,Feathercoin,FTC,Coin,Scrypt,PoW,https://cdn.coinranking.com/media/19718/ftc.png?width=46,http://feathercoin.com,"Feathercoin is a powerful open source digital currency with monetary properties linked to Bitcoin, Litecoin and a myriad of countless alt coins, but under the hood is something very different.ÿ"
+149,150,rise,Rise,RISE,Coin,DPoS,PoS,https://cdn.coinranking.com/media/351059/rise.png?width=46,https://rise.vision/,User Friendly Application Platform. Rise offers fast and secure wallets for every user.
+150,151,potcoin,PotCoin,POT,Coin,Scrypt,PoW,https://cdn.coinranking.com/SyajyDdub/pot.svg,http://www.potcoin.com/,"BANKING FOR THE CANNABIS INDUSTRY 
+GROW WITH US"
+151,152,supernet-unity,SuperNET,UNITY,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+152,153,minexcoin,MinexCoin,MNX,Coin,Mars,N/A,https://cdn.coinranking.com/media/14913648/mnx.png?width=46,https://minexcoin.com/,MinexCoin (MNX) is a global payments system based on a low volatility cryptocurrency which is a part of Minex ecosystem.
+153,154,voxels,Voxels,VOX,Coin,Scrypt,PoW,https://cdn.coinranking.com/SymBVPdOb/vox.svg,https://www.voxelus.com/,"Create, Share & Play VR. oxelus is a platform that allows anyone, anywhere to create, share and play virtual reality games and experiences without writing a single line of code. Voxelus includes a bundle of free assets that you can use to design with more content coming out every week."
+154,155,pepe-cash,Pepe Cash,PEPECASH,Token,N/A,N/A,https://cdn.coinranking.com/media/1382397/pepecash.png?width=46,http://rarepepedirectory.com/,0
+155,156,lykke,Lykke,LKK,Coin,#N/A,#N/A,https://cdn.coinranking.com/HkSkdU_uW/lkk.svg,https://lykke.com,"Trade Bitcoin, Ethereum, FXÿand digital assets. The Lykke Wallet mobile application for iOS and Android is the key element of the Lykke trading ecosystem."
+156,157,gulden,Gulden,NLG,Coin,Scrypt,PoW,https://cdn.coinranking.com/rkvuJPOOW/nlg.svg,https://gulden.com/,0
+157,158,cofound-it,Cofound.it,CFI,Token,N/A,N/A,https://cdn.coinranking.com/media/1383567/cfi.png?width=46,https://cofound.it/,0
+158,159,whitecoin,WhiteCoin,XWC,Coin,Scrypt,PoW/PoS,https://cdn.coinranking.com/media/350911/xwc_1.png?width=46,http://whitecoin.info/,0
+159,160,eidoo,Eidoo,EDO,Token,N/A,N/A,https://cdn.coinranking.com/Bkwm4x-JG/edo.svg,https://eidoo.io/,"your blockchain 
+asset experience. Fast, easy, and not only a Multicurrency Wallet:
+it's a Hybrid Exchange too. It's Eidoo."
+160,161,burst,Burst,BURST,Coin,Shabal256,PoC,https://cdn.coinranking.com/media/16746623/burst.png?width=46,https://www.burst-coin.org,0
+161,162,shift,Shift,SHIFT,Coin,DPoS,DPoS,https://cdn.coinranking.com/media/1382125/shift.png?width=46,http://www.shiftnrg.org,0
+162,163,viberate,Viberate,VIB,Token,N/A,N/A,https://cdn.coinranking.com/media/1383893/vib.png?width=46,https://www.viberate.com/,0
+163,164,aeon,Aeon,AEON,Coin,CryptoNight,PoW,https://cdn.coinranking.com/media/350955/aeon.png?width=46,http://www.aeon.cash/,"AEON isn't just a currency.
+It's a lifestyle. AEON is about enabling this era, enabling an age where all people everywhere have the freedom to privately send and receive money with whatever gadget they already own."
+164,165,wagerr,Wagerr,WGR,Token,PoS,N/A,https://cdn.coinranking.com/HJ1urWv1z/wgr.svg,https://www.wagerr.com/,0
+165,166,pillar,Pillar,PLR,Token,N/A,N/A,https://cdn.coinranking.com/media/1383786/plr.png?width=46,https://pillarproject.io/,0
+166,167,tierion,Tierion,TNT,Token,N/A,N/A,https://cdn.coinranking.com/media/1383800/tnt.png?width=46,https://tierion.com/,0
+167,168,ethlend,ETHLend,LEND,Token,N/A,N/A,https://cdn.coinranking.com/media/16746444/lend.png?width=46,https://ethlend.io/,0
+168,169,firstblood,FirstBlood,1ST,Token,N/A,N/A,https://cdn.coinranking.com/SyW258uOZ/1st.svg,https://firstblood.io/,0
+169,170,bitcny,bitCNY,BITCNY,Token,#N/A,#N/A,https://cdn.coinranking.com/media/351490/bitcny.png?width=46,http://cryptofresh.com/a/CNY,0
+170,171,triggers,Triggers,TRIG,Token,N/A,N/A,https://cdn.coinranking.com/media/351489/trg.png?width=46,https://www.blocksafefoundation.com/,0
+171,172,dentacoin,Dentacoin,DCN,Token,N/A,N/A,https://cdn.coinranking.com/rJWMzpuAW/dcn.svg,http://www.dentacoin.com/,0
+172,173,humaniq,Humaniq,HMQ,Token,N/A,N/A,https://cdn.coinranking.com/S1GUew_O-/hmq.svg,https://humaniq.co/,0
+173,174,namecoin,Namecoin,NMC,Coin,SHA256,PoW,https://cdn.coinranking.com/ryZXewd_Z/nmc.svg,https://www.namecoin.org/,0
+174,175,simple-token,Simple Token,OST,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+175,176,crown,Crown,CRW,Coin,SHA256,PoW,https://cdn.coinranking.com/media/1383378/crw1.png?width=46,http://crown.tech/,0
+176,177,cobinhood,Cobinhood,COB,Token,#N/A,#N/A,#N/A,https://www.cobinhood.com/,"The world's first ""ZERO Trading Fees"" cryptocurrency exchange"
+177,178,coindash,CoinDash,CDT,Token,N/A,N/A,https://cdn.coinranking.com/media/1383699/cdt.png?width=46,https://www.coindash.io/,Into The Future Of Trading
+178,179,airswap,AirSwap,AST,Token,N/A,N/A,https://cdn.coinranking.com/SJReglSpW/ast.svg,https://www.airswap.io/,0
+179,180,amber,Ambrosus,AMB,Token,N/A,N/A,https://cdn.coinranking.com/S12AkKv0W/amb.svg,http://ambrosus.com/,0
+180,181,sibcoin,SIBCoin,SIB,Coin,X11GOST,PoW,https://cdn.coinranking.com/media/350958/sib.png?width=46,https://sibcoin.money/,0
+181,182,decent,DECENT,DCT,Coin,N/A,PoS,https://cdn.coinranking.com/SyoxYIdd-/dct.svg,https://decent.ch/,0
+182,183,ion,ION,ION,Coin,N/A,PoS,#N/A,https://ionomy.com/,0
+183,184,district0x,district0x,DNT,Token,N/A,N/A,https://cdn.coinranking.com/media/1383701/dnt.png?width=46,https://district0x.io/,0
+184,185,faircoin,FairCoin,FAIR,Coin,Groestl,PoW/PoS,https://cdn.coinranking.com/HJBXjLvRZ/fair.svg,http://fair-coin.org/,FairCoin implements fair value exchange on a global level.
+185,186,etherparty,Etherparty,FUEL,Token,N/A,N/A,https://cdn.coinranking.com/media/11999072/fuel.png?width=46,https://etherparty.com/,0
+186,187,elastic,Elastic,XEL,Coin,N/A,PoW,https://cdn.coinranking.com/media/1383737/xel.png?width=46,https://www.elastic.pw/,0
+187,188,blocktix,Blocktix,TIX,Token,N/A,N/A,#N/A,https://blocktix.io/,0
+188,189,iocoin,I/O Coin,IOC,Coin,X11,PoW/PoS,https://cdn.coinranking.com/ByCoo_DAb/ioc.svg,http://iocoin.io/,0
+189,190,steem-dollars,Steem Dollars,SBD,Coin,N/A,N/A,https://cdn.coinranking.com/SkkCsr_OW/steem.svg,https://steem.io/,0
+190,191,taas,TaaS,TAAS,Token,N/A,N/A,https://cdn.coinranking.com/SydJH_v0Z/taas.svg,https://taas.fund/,0
+191,192,paragon,Paragon,PRG,Token,N/A,N/A,https://cdn.coinranking.com/media/1384033/prg.png?width=46,https://paragoncoin.com/,0
+192,193,blockv,BLOCKv,VEE,Token,#N/A,#N/A,https://cdn.coinranking.com/media/12318044/vee.png?width=46,https://blockv.io/,0
+193,194,quantum,Quantum,QAU,Token,N/A,N/A,#N/A,#N/A,#N/A
+194,195,guppy,Matchpool,GUP,Token,N/A,N/A,#N/A,https://matchpool.co/,0
+195,196,trust,WeTrust,TRST,Token,N/A,N/A,#N/A,https://www.wetrust.io/,0
+196,197,spankchain,SpankChain,SPANK,Token,#N/A,#N/A,https://cdn.coinranking.com/media/16404890/spank.png?width=46,https://spankchain.com/,0
+197,198,diamond,Diamond,DMD,Coin,Groestl,PoW/PoS,https://cdn.coinranking.com/media/19680/dmd.png?width=46,http://bit.diamonds,"be your own bank and creator of wealth. Diamond (DMD) is a non-government contro?lled digital currency that allows people to send money anywh?ere in the world ins?tantly, securely and at near zero cost."
+198,199,unikoin-gold,Unikoin Gold,UKG,Token,N/A,N/A,https://cdn.coinranking.com/media/14913456/ukg.png?width=46,https://unikrn.com/,0
+199,200,synereo,Synereo,AMP,Token,N/A,Pow/PoSC,https://cdn.coinranking.com/SyhgQP_OW/amp.svg,http://www.synereo.com/,0
+200,201,omni,Omni,OMNI,Coin,Scrypt,PoW,https://cdn.coinranking.com/media/351102/omni.png?width=46,http://www.omnilayer.org/,0
+201,202,bodhi,Bodhi,BOT,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+202,203,hive,Hive,HVN,Token,N/A,N/A,https://cdn.coinranking.com/media/1383745/hvt.png?width=46,https://www.hive-project.net/,0
+203,204,modum,Modum,MOD,Token,N/A,N/A,https://cdn.coinranking.com/rk7ldkGAZ/mod.svg,https://modum.io/,0
+204,205,moeda-loyalty-points,Moeda Loyalty Points,MDA,Token,N/A,N/A,https://cdn.coinranking.com/B1eZ4OlJM/mda.svg,https://moeda.in/,0
+205,206,blackcoin,BlackCoin,BLK,Coin,Scrypt,PoS,https://cdn.coinranking.com/H1ckXv_dZ/blk.svg,http://www.blackcoin.co/,0
+206,207,open-trading-network,Open Trading Network,OTN,Token,N/A,N/A,https://cdn.coinranking.com/S1Vu7deyM/otn.svg,https://mobilego.io/,"Open Trading Network (OTN)ÿ? the first platform that offers cross-chain technology to unite all blockchain networks and market participants, andÿensure their best interests."
+207,208,zeusshield,Zeusshield,ZSC,Token,N/A,N/A,https://cdn.coinranking.com/HyAZ-GCRW/zsc.svg,https://zsc.io/,0
+208,209,okcash,OKCash,OK,Coin,N/A,PoW/PoS,https://cdn.coinranking.com/media/350819/ok.png?width=46,http://okcash.co,0
+209,210,patientory,Patientory,PTOY,Token,N/A,N/A,https://cdn.coinranking.com/media/1383547/ptoy.png?width=46,https://patientory.com/,0
+210,211,russian-mining-coin,Russian Miner Coin,RMC,Coin,#N/A,#N/A,#N/A,https://rmc.one/,Multicell mining. Revolutionary ecosystem for miners and investors
+211,212,gridcoin,GridCoin,GRC,Coin,Scrypt,DPoR,https://cdn.coinranking.com/media/20307/grc.png?width=46,http://www.gridcoin.us/,0
+212,213,numeraire,Numeraire,NMR,Token,N/A,N/A,#N/A,https://numer.ai/,0
+213,214,grid,Grid+,GRID,Token,#N/A,#N/A,#N/A,http://gridplus.io/,0
+214,215,monetaryunit,MonetaryUnit,MUE,Coin,Quark,PoW,https://cdn.coinranking.com/rJMpxvuO-/mue.svg,http://www.monetaryunit.org,0
+215,216,monetha,Monetha,MTH,Token,N/A,N/A,https://cdn.coinranking.com/SJ_GBzqCW/mth.svg,https://www.monetha.io/,0
+216,217,domraider,DomRaider,DRT,Token,N/A,N/A,https://cdn.coinranking.com/media/12318099/drt.png?width=46,https://www.domraider.io/,0
+217,218,salus,SaluS,SLS,Coin,Scrypt,PoW/PoS,https://cdn.coinranking.com/media/350946/sls.png?width=46,http://saluscoin.info/,0
+218,219,bridgecoin,BridgeCoin,BCO,Coin,#N/A,#N/A,https://cdn.coinranking.com/media/16746477/bco.png?width=46,https://bridgecoin.org/,0
+219,220,florincoin,FlorinCoin,FLO,Coin,Scrypt,PoW,https://cdn.coinranking.com/media/1383331/flo1.png?width=46,http://www.florincoin.org/,0
+220,221,adtoken,adToken,ADT,Token,N/A,N/A,https://cdn.coinranking.com/ByLYoLu_Z/adt.svg,https://adtoken.com/,0
+221,222,xp,XP,XP,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+222,223,waves-community-token,Waves Community Token,WCT,Token,N/A,N/A,https://cdn.coinranking.com/HkkSAbyzM/wct.svg,https://wavesplatform.com/,0
+223,224,bitcore,Bitcore,BTX,Coin,Time Travel,PoW,https://cdn.coinranking.com/media/1383895/btx.png?width=46,http://bitcore.cc/,0
+224,225,radium,Radium,RADS,Coin,N/A,PoS,https://cdn.coinranking.com/ryFCGwudZ/rads.svg,https://radiumcore.org/,0
+225,226,nolimitcoin,NoLimitCoin,NLC2,Coin,PoS,PoS,https://cdn.coinranking.com/media/16746543/nlc2.png?width=46,http://www.nolimitcoin.org/,0
+226,227,shield-xsh,SHIELD,XSH,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+227,228,golos,Golos,GOLOS,Coin,N/A,PoW,https://cdn.coinranking.com/media/1382246/golos.png?width=46,https://golos.io/,0
+228,229,presearch,Presearch,PRE,Token,Scrypt,PoW,https://cdn.coinranking.com/media/1383801/pst.png?width=46,https://www.presearch.io/,0
+229,230,foldingcoin,FoldingCoin,FLDC,Token,Stanford Folding,PoW,https://cdn.coinranking.com/media/20284/fldc.png?width=46,http://www.foldingcoin.net/,0
+230,231,fedoracoin,FedoraCoin,TIPS,Coin,#N/A,#N/A,#N/A,http://www.fedoracoin.top/,Get all the informations you need
+231,232,peerplays-ppy,Peerplays,PPY,Coin,N/A,N/A,https://cdn.coinranking.com/media/351630/peerplays.png?width=46,http://www.peerplays.com/,0
+232,233,everex,Everex,EVX,Token,N/A,N/A,#N/A,https://www.everex.io/,0
+233,234,oraclechain,OracleChain,OCT,Token,#N/A,#N/A,#N/A,http://oraclechain.io/,0
+234,235,clams,Clams,CLAM,Coin,N/A,PoW,https://cdn.coinranking.com/rkcW7w_O-/clam.svg,http://clamcoin.org/,0
+235,236,bitdice,BitDice,CSNO,Token,N/A,N/A,https://cdn.coinranking.com/media/1383922/csno.png?width=46,https://www.bitdice.me/,0
+236,237,primas,Primas,PST,Token,#N/A,#N/A,#N/A,https://primas.io/,0
+237,238,mysterium,Mysterium,MYST,Token,N/A,N/A,https://cdn.coinranking.com/media/1383561/myst.png?width=46,https://mysterium.network/,0
+238,239,myriad,Myriad,XMY,Coin,Multiple,PoW,#N/A,#N/A,#N/A
+239,240,bitbean,BitBean,BITB,Coin,SHA256,PoW/PoS,https://cdn.coinranking.com/media/350879/bitb.png?width=46,http://www.bitbean.org/,0
+240,241,bcap,BCAP,BCAP,Token,#N/A,#N/A,https://cdn.coinranking.com/S1eiEP_ub/bcap.svg,http://blockchain.capital/,0
+241,242,vericoin,VeriCoin,VRC,Coin,Scrypt,PoW/PoS,https://cdn.coinranking.com/ByFWHPdub/vrc.svg,http://www.vericoin.info/,0
+242,243,firstcoin,FirstCoin,FRST,Coin,Scrypt,PoW/PoS ,#N/A,#N/A,#N/A
+243,244,spectrecoin,Spectrecoin,XSPEC,Coin,POS 3.0,PoS,#N/A,#N/A,#N/A
+244,245,gambit,Gambit,GAM,Coin,Scrypt,PoW/PoS,https://cdn.coinranking.com/media/20293/gam.png?width=46,http://www.gambitcrypto.com,0
+245,246,expanse,Expanse,EXP,Coin,Ethash,PoW,https://cdn.coinranking.com/media/20707/exp.png?width=46,http://www.expanse.tech/,0
+246,247,phore,Phore,PHR,Coin,PoS,PoS,#N/A,#N/A,#N/A
+247,248,agrello-delta,Agrello,DLT,Token,N/A,N/A,#N/A,https://www.agrello.org/,0
+248,249,rubycoin,Rubycoin,RBY,Coin,Scrypt,PoS,https://cdn.coinranking.com/ryIGEPu_Z/rby.svg,http://www.rubycoin.org/,0
+249,250,stealthcoin,Stealthcoin,XST,Coin,X13,PoW/PoS,#N/A,#N/A,#N/A
+250,251,stox,Stox,STX,Token,N/A,N/A,https://cdn.coinranking.com/media/1383946/stx.png?width=46,https://www.stox.com/,0
+251,252,genesis-vision,Genesis Vision,GVT,Token,N/A,N/A,https://cdn.coinranking.com/media/14913634/gvt.png?width=46,https://genesis.vision/,0
+252,253,decision-token,Decision Token,HST,Token,N/A,N/A,#N/A,#N/A,#N/A
+253,254,nuls,Nuls,NULS,Token,N/A,N/A,#N/A,#N/A,#N/A
+254,255,suncontract,SunContract,SNC,Token,N/A,N/A,https://cdn.coinranking.com/media/1383748/snc.png?width=46,https://suncontract.org/tokensale/index.html,0
+255,256,obits,OBITS,OBITS,Token,N/A,N/A,https://cdn.coinranking.com/media/350565/obits.png?width=46,http://www.obits.io/,0
+256,257,bitusd,bitUSD,BITUSD,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+257,258,global-currency-reserve,Global Currency Reserve,GCR,Coin,N/A,PoS,https://cdn.coinranking.com/media/20708/gcr.png?width=46,http://gcrcoin.com/,0
+258,259,rialto,Rialto,XRL,Token,N/A,N/A,https://cdn.coinranking.com/media/1383754/xrl.png?width=46,https://www.rialto.ai/,0
+259,260,alis,ALIS,ALIS,Token,N/A,N/A,https://cdn.coinranking.com/media/12318247/alis.png?width=46,https://alismedia.jp/,0
+260,261,ethereum-blue,BLUE,BLUE,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+261,262,dimecoin,Dimecoin,DIME,Coin,Quark,PoW,https://cdn.coinranking.com/media/351012/dime.png?width=46,http://www.dimecoin.rocks/,0
+262,263,exchange-union,Exchange Union,XUC,Token,N/A,N/A,https://cdn.coinranking.com/S1RMxBnxM/xuc.svg,https://www.exchangeunion.com/,Connecting Digital asset exchanges. Increased Liquidity. All trading-pairs. Best Market Price.
+263,264,pascal-coin,Pascal Coin,PASC,Coin,N/A,N/A,https://cdn.coinranking.com/media/1382247/pasc.png?width=46,http://www.pascalcoin.org/,0
+264,265,databits,Databits,DTB,Token,N/A,N/A,https://cdn.coinranking.com/media/1382791/dtb.png?width=46,http://www.augmentorsgame.com/,0
+265,266,nimiq,Nimiq,NET,Coin,Scrypt,PoW,https://cdn.coinranking.com/media/1383697/net1.png?width=46,https://nimiq.com/,0
+266,267,neoscoin,NeosCoin,NEOS,Coin,SHA256,PoS,https://cdn.coinranking.com/media/1382788/neos1.png?width=46,http://www.neoscoin.com,0
+267,268,swarm-city,Swarm City,SWT,Token,N/A,N/A,https://cdn.coinranking.com/HJiGDZA1f/swt.svg,http://swarm.city/,0
+268,269,aventus,Aventus,AVT,Token,N/A,N/A,#N/A,https://aventus.io/,0
+269,270,leocoin,LEOcoin,LEO,Coin,Scrypt,PoW,https://cdn.coinranking.com/B1KQo8d_Z/leo.svg,http://www.leocoin.org/,0
+270,271,atbcoin,ATBCoin,ATB,Coin,SHA256,PoW,https://cdn.coinranking.com/rkYnjeSTZ/atb.svg,https://atbcoin.com/,0
+271,272,bitsend,BitSend,BSD,Coin,X11,PoW/PoS,https://cdn.coinranking.com/media/351086/bsd.png?width=46,http://www.bitsend.info/,0
+272,273,mothership,Mothership,MSP,Token,N/A,N/A,https://cdn.coinranking.com/media/1383881/c9fobrlr_400x400.jpg?width=46,https://mothership.cx/,0
+273,274,icos,ICOS,ICOS,Token,N/A,N/A,#N/A,https://icos.icobox.io/,0
+274,275,solarcoin,SolarCoin,SLR,Coin,Scrypt,PoW,https://cdn.coinranking.com/media/20699/slr.png?width=46,http://solarcoin.org/,0
+275,276,nexium,Nexium,NXC,Token,N/A,N/A,https://cdn.coinranking.com/media/352248/nxc.png?width=46,https://beyond-the-void.net/,0
+276,277,ixledger,iXledger,IXT,Token,N/A,N/A,https://cdn.coinranking.com/media/1383612/ixt.png?width=46,https://www.ixledger.com/,0
+277,278,credo,Credo,CREDO,Token,N/A,N/A,#N/A,#N/A,#N/A
+278,279,lomocoin,LoMoCoin,LMC,Coin,Scrypt,PoW/PoS,https://cdn.coinranking.com/media/1383139/lmc.png?width=46,http://www.lomostar.com/,0
+279,280,bitqy,bitqy,BQ,Token,N/A,N/A,https://cdn.coinranking.com/S17fuOwRb/bq.svg,https://bitqy.org/,0
+280,281,tokencard,TokenCard,TKN,Token,N/A,N/A,https://cdn.coinranking.com/BJ4viLO_b/tkn.svg,http://tokencard.io/,0
+281,282,transfercoin,TransferCoin,TX,Coin,X11,PoW/PoS,#N/A,http://txproject.io/,0
+282,283,mooncoin,Mooncoin,MOON,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+283,284,posw-coin,PoSW Coin,POSW,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+284,285,lunyr,Lunyr,LUN,Token,N/A,N/A,https://cdn.coinranking.com/r1_h5BHtb/lun.svg,https://lunyr.com/,0
+285,286,obsidian,Obsidian,ODN,Coin,SHA-512,PoS,https://cdn.coinranking.com/media/12318145/odn.png?width=46,https://obsidianplatform.com,0
+286,287,vcash,Vcash,XVC,Coin,Whirlpool,PoS,https://cdn.coinranking.com/media/350813/xvc.png?width=46,http://vcash.info/,0
+287,288,kickico,KickCoin,KICK,Token,N/A,N/A,https://cdn.coinranking.com/media/1383929/kick.png?width=46,https://www.kickico.com/,0
+288,289,heat-ledger,HEAT,HEAT,Coin,N/A,PoS/PoP,#N/A,#N/A,#N/A
+289,290,pinkcoin,PinkCoin,PINK,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+290,291,incent,Incent,INCNT,Token,N/A,N/A,#N/A,#N/A,#N/A
+291,292,maecenas,Maecenas,ART,Token,N/A,N/A,#N/A,#N/A,#N/A
+292,293,unobtanium,Unobtanium,UNO,Coin,SHA256,PoW,https://cdn.coinranking.com/media/20065/uno.png?width=46,http://unobtanium.uno,0
+293,294,polybius,Polybius,PLBT,Token,N/A,N/A,https://cdn.coinranking.com/media/1383671/polybius.png?width=46,https://polybius.io/,0
+294,295,airtoken,AirToken,AIR,Token,N/A,N/A,#N/A,#N/A,#N/A
+295,296,xaurum,Xaurum,XAUR,Token,N/A,N/A,https://cdn.coinranking.com/HysRxv__Z/xaur.svg,http://www.xaurum.org/,0
+296,297,vibe,VIBE,VIBE,Token,N/A,N/A,#N/A,#N/A,#N/A
+297,298,soarcoin,Soarcoin,SOAR,Token,N/A,N/A,https://cdn.coinranking.com/media/14913644/soar.png?width=46,http://soarlabs.org/,0
+298,299,energycoin,Energycoin,ENRG,Coin,Scrypt,PoW/PoS,https://cdn.coinranking.com/media/19697/enrg.png?width=46,https://energycoin.eu/,0
+299,300,circuits-of-value,Circuits of Value,COVAL,Token,Multiple,PoW,#N/A,#N/A,#N/A
+300,301,musicoin,Musicoin,MUSIC,Coin,Ethash,PoW,#N/A,#N/A,#N/A
+301,302,the-champcoin,The ChampCoin,TCC,Coin,#N/A,#N/A,#N/A,http://thechampcoin.com/,0
+302,303,nvo,NVO,NVST,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+303,304,bitzeny,Bitzeny,ZNY,Coin,Scrypt,PoW,https://cdn.coinranking.com/media/20691/zny.png?width=46,http://bitzeny.org/,0
+304,305,boolberry,Boolberry,BBR,Coin,#N/A,#N/A,https://cdn.coinranking.com/media/19609/bbr.png?width=46,http://boolberry.com/,0
+305,306,blackmoon-crypto,Blackmoon Crypto,BMC,Token,N/A,N/A,https://cdn.coinranking.com/media/12318008/bmc.png?width=46,https://www.blackmooncrypto.com/,0
+306,307,etheroll,Etheroll,DICE,Token,N/A,N/A,https://cdn.coinranking.com/media/1383361/dice.png?width=46,https://etheroll.com/,0
+307,308,nushares,NuShares,NSR,Token,#N/A,#N/A,https://cdn.coinranking.com/media/20378/nsr.png?width=46,https://nubits.com/nushares,0
+308,309,blockmason,BlockMason Credit Protocol,BCPT,Token,N/A,N/A,#N/A,#N/A,#N/A
+309,310,dopecoin,DopeCoin,DOPE,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+310,311,target-coin,Target Coin,TGT,Token,#N/A,#N/A,https://cdn.coinranking.com/media/16746629/tgt.png?width=46,https://www.tgtcoins.com/,0
+311,312,sphere,Sphere,SPHR,Coin,Scrypt,PoW/PoS,https://cdn.coinranking.com/media/19808/mrs.png?width=46,https://sphrpay.io/,0
+312,313,novacoin,Novacoin,NVC,Coin,Scrypt,PoW/PoS,https://cdn.coinranking.com/HkCaHv_dZ/nvc.svg,http://novacoin.org,0
+313,314,sequence,Sequence,SEQ,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+314,315,oxycoin,Oxycoin,OXY,Coin,DPoS,DPoS,https://cdn.coinranking.com/media/9350753/oxy.png?width=46,https://oxycoin.io/,0
+315,316,bitcrystals,Bitcrystals,BCY,Token,Counterparty,N/A,#N/A,#N/A,#N/A
+316,317,oax,OAX,OAX,Token,N/A,N/A,#N/A,#N/A,#N/A
+317,318,deeponion,DeepOnion,ONION,Coin,X13,PoW/PoS,https://cdn.coinranking.com/media/1383894/onion.png?width=46,https://deeponion.org/,0
+318,319,bitmark,Bitmark,BTM,Coin,Scrypt,PoW,https://cdn.coinranking.com/HJX2LIdu-/btm.svg,http://bytom.io/,"Bytom is an interactive protocol of multiple byte assets. Heterogeneous byte-assets (indigenous digital currency, digital assets) that operate in different forms on the Bytom Blockchain and atomic assets (warrants, securities, dividends, bonds, intelligence information, forecasting information and other information that exist in the physical world) can be registered, exchanged, gambled and engaged in other more complicated and contract-based interoperations via Bytom."
+319,320,dao-casino,DAO.Casino,BET,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+320,321,memetic,Memetic / PepeCoin,MEME,Coin,X11,PoW/PoS,#N/A,https://memetic.ai/,0
+321,322,chronobank,Chronobank,TIME,Token,N/A,N/A,#N/A,https://chronobank.io/,0
+322,323,auroracoin,Auroracoin,AUR,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+323,324,artbyte,ArtByte,ABY,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+324,325,change,Change,CAG,Token,N/A,N/A,#N/A,#N/A,#N/A
+325,326,earthcoin,EarthCoin,EAC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+326,327,curecoin,Curecoin,CURE,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+327,328,rivetz,Rivetz,RVT,Token,N/A,N/A,https://cdn.coinranking.com/media/1383694/rvt.png?width=46,https://rivetzintl.com/,0
+328,329,clearpoll,ClearPoll,POLL,Token,N/A,N/A,https://cdn.coinranking.com/media/12318144/poll.png?width=46,https://www.clearpoll.io/,0
+329,330,blockcat,BlockCAT,CAT,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+330,331,coss,COSS,COSS,Token,N/A,N/A,#N/A,#N/A,#N/A
+331,332,masternodecoin,Masternodecoin,MTNC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+332,333,xenon,Xenon,XNN,Token,#N/A,#N/A,https://cdn.coinranking.com/media/14761938/xnn.png?width=46,https://xenon.network/,0
+333,334,sharechain,Sharechain,SSS,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+334,335,internet-of-people,Internet of People,IOP,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+335,336,eccoin,ECC,ECC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+336,337,b2bx,B2B,B2B,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+337,338,bitcoin-plus,Bitcoin Plus,XBC,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+338,339,oyster-pearl,Oyster Pearl,PRL,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+339,340,korecoin,Kore,KORE,Coin,X13,PoW/PoS,#N/A,#N/A,#N/A
+340,341,hellogold,HelloGold,HGT,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+341,342,astro,Astro,ASTRO,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+342,343,latoken,LAToken,LA,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+343,344,martexcoin,MarteXcoin,MXT,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+344,345,pesetacoin,Pesetacoin,PTC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+345,346,zephyr,Zephyr,ZEPH,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+346,347,lockchain,LockChain,LOC,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+347,348,encrypgen,EncrypGen,DNA,Token,N/A,N/A,https://cdn.coinranking.com/media/16746452/dna.png?width=46,https://www.encrypgen.com/,0
+348,349,lampix,Lampix,PIX,Token,N/A,N/A,#N/A,#N/A,#N/A
+349,350,cvcoin,CVCoin,CVCOIN,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+350,351,belacoin,Bela,BELA,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+351,352,ecobit,Ecobit,ECOB,Token,N/A,N/A,#N/A,#N/A,#N/A
+352,353,tao,Tao,XTO,Coin,#N/A,#N/A,#N/A,http://tao.network/,0
+353,354,qwark,Qwark,QWARK,Token,N/A,N/A,#N/A,#N/A,#N/A
+354,355,investfeed,InvestFeed,IFT,Token,N/A,N/A,https://cdn.coinranking.com/media/12318127/ift.png?width=46,https://www.investfeed.com/,0
+355,356,goldcoin,GoldCoin,GLD,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+356,357,sexcoin,Sexcoin,SXC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+357,358,e-dinar-coin,E-Dinar Coin,EDR,Coin,X11,DPoS,#N/A,#N/A,#N/A
+358,359,mybit-token,MyBit Token,MYB,Token,N/A,N/A,#N/A,#N/A,#N/A
+359,360,decent-bet,DecentBet,DBET,Token,N/A,N/A,#N/A,#N/A,#N/A
+360,361,toacoin,ToaCoin,TOA,Coin,Scrypt,PoW/PoS,https://cdn.coinranking.com/media/12318334/toacoin.png?width=46,http://www.toacoin.com/,0
+361,362,primecoin,Primecoin,XPM,Coin,Multiple,PoW,#N/A,#N/A,#N/A
+362,363,ethereum-movie-venture,Ethereum Movie Venture,EMV,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+363,364,apx,APX,APX,Token,N/A,N/A,#N/A,#N/A,#N/A
+364,365,espers,Espers,ESP,Coin,HMQ1725,PoW/PoS,#N/A,#N/A,#N/A
+365,366,exclusivecoin,ExclusiveCoin,EXCL,Coin,PoS,PoS,#N/A,#N/A,#N/A
+366,367,riecoin,Riecoin,RIC,Coin,Groestl,PoW,#N/A,#N/A,#N/A
+367,368,syndicate,Syndicate,SYNX,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+368,369,mcap,MCAP,MCAP,Token,N/A,N/A,https://cdn.coinranking.com/BktirLdu-/mcap.svg,https://bitcoingrowthfund.com/mcap,0
+369,370,zclassic,ZClassic,ZCL,Coin,Equihash,PoW,#N/A,#N/A,#N/A
+370,371,2give,2GIVE,2GIVE,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+371,372,pluton,Pluton,PLU,Token,N/A,N/A,#N/A,#N/A,#N/A
+372,373,blitzcash,Blitzcash,BLITZ,Coin,X13,PoS,#N/A,#N/A,#N/A
+373,374,prizm,PRIZM,PZM,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+374,375,project-decorum,Project Decorum,PDC,Token,N/A,N/A,#N/A,#N/A,#N/A
+375,376,bitswift,Bitswift,SWIFT,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+376,377,farad,Farad,FRD,Token,N/A,N/A,#N/A,#N/A,#N/A
+377,378,dubaicoin-dbix,DubaiCoin,DBIX,Coin,Dagger-Hashimoto,PoW,#N/A,#N/A,#N/A
+378,379,dovu,Dovu,DOVU,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+379,380,propy,Propy,PRO,Token,N/A,N/A,#N/A,#N/A,#N/A
+380,381,trueflip,TrueFlip,TFL,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+381,382,dynamic,Dynamic,DYN,Coin,Argon2,PoW,#N/A,#N/A,#N/A
+382,383,voisecom,Voise,VOISE,Token,N/A,N/A,#N/A,#N/A,#N/A
+383,384,atmos,Atmos,ATMS,Coin,PoS,PoS,#N/A,#N/A,#N/A
+384,385,breakout-stake,Breakout Stake,BRX,Coin,N/A,PoW/PoS,#N/A,#N/A,#N/A
+385,386,creditbit,Creditbit,CRB,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+386,387,dcorp,DCORP,DRP,Token,N/A,N/A,#N/A,#N/A,#N/A
+387,388,breakout,Breakout,BRK,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+388,389,sportyfi,SportyFi,SPF,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+389,390,primalbase,Primalbase Token,PBT,Token,N/A,N/A,#N/A,#N/A,#N/A
+390,391,ebtcnew,eBitcoin,EBTC,Token,N/A,N/A,#N/A,#N/A,#N/A
+391,392,trustplus,TrustPlus,TRUST,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+392,393,mintcoin,Mintcoin,MINT,Coin,Scrypt,PoS,#N/A,#N/A,#N/A
+393,394,synergy,Synergy,SNRG,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+394,395,bonpay,Bonpay,BON,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+395,396,elixir,Elixir,ELIX,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+396,397,paccoin,Paccoin,PAC,Coin,SHA256D,PoW,#N/A,#N/A,#N/A
+397,398,aeron,Aeron,ARN,Token,N/A,N/A,#N/A,#N/A,#N/A
+398,399,europecoin,EuropeCoin,ERC,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+399,400,yocoin,Yocoin,YOC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+400,401,flixxo,Flixxo,FLIXX,Token,N/A,N/A,#N/A,#N/A,#N/A
+401,402,bismuth,Bismuth,BIS,Coin,N/A,PoW,#N/A,#N/A,#N/A
+402,403,cannabiscoin,CannabisCoin,CANN,Coin,X11,PoW,#N/A,#N/A,#N/A
+403,404,bluecoin,BlueCoin,BLU,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+404,405,veriumreserve,VeriumReserve,VRM,Coin,N/A,PoWT,#N/A,#N/A,#N/A
+405,406,life,LIFE,LIFE,Token,N/A,N/A,#N/A,#N/A,#N/A
+406,407,vslice,vSlice,VSL,Token,N/A,N/A,#N/A,#N/A,#N/A
+407,408,bitdeal,Bitdeal,BDL,Coin,Scrypt,PoW,https://cdn.coinranking.com/rJwFKxrpW/bdl.svg,https://bitdeal.co.in/,0
+408,409,cryptonite,Cryptonite,XCN,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+409,410,bitcloud,Bitcloud,BTDX,Coin,#N/A,#N/A,https://cdn.coinranking.com/media/14761939/btdx.png?width=46,https://bit-cloud.info/,0
+410,411,neutron,Neutron,NTRN,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+411,412,sumokoin,Sumokoin,SUMO,Coin,CryptoNight,PoW,#N/A,#N/A,#N/A
+412,413,internxt,Internxt,INXT,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+413,414,gobyte,GoByte,GBX,Coin,NeoScrypt,PoW,#N/A,#N/A,#N/A
+414,415,evergreencoin,EverGreenCoin,EGC,Coin,X15,PoW/PoS,#N/A,#N/A,#N/A
+415,416,htmlcoin,HTMLCOIN,HTML5,Coin,X15,PoW/PoS,#N/A,#N/A,#N/A
+416,417,divi,Divi,DIVX,Token,N/A,N/A,#N/A,#N/A,#N/A
+417,418,chips,CHIPS,CHIPS,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+418,419,oceanlab,Oceanlab,OCL,Token,N/A,DPoS/LPoS,#N/A,#N/A,#N/A
+419,420,asiacoin,AsiaCoin,AC,Coin,Scrypt,PoS,#N/A,#N/A,#N/A
+420,421,ergo,Ergo,EFYT,Token,N/A,N/A,#N/A,#N/A,#N/A
+421,422,geocoin,GeoCoin,GEO,Coin,Scrypt,N/A,#N/A,#N/A,#N/A
+422,423,adshares,AdShares,ADST,Token,N/A,N/A,#N/A,#N/A,#N/A
+423,424,putincoin,PutinCoin,PUT,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+424,425,startcoin,Startcoin,START,Coin,X11,PoW,#N/A,#N/A,#N/A
+425,426,blockpool,Blockpool,BPL,Coin,DPoS,N/A,#N/A,#N/A,#N/A
+426,427,thegcccoin,TheGCCcoin,GCC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+427,428,zrcoin,ZrCoin,ZRC,Token,N/A,N/A,#N/A,#N/A,#N/A
+428,429,pirl,Pirl,PIRL,Coin,Dagger,PoW,#N/A,#N/A,#N/A
+429,430,universal-currency,Universal Currency,UNIT,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+430,431,trezarcoin,TrezarCoin,TZC,Coin,NeoScrypt,PoW/PoS,#N/A,#N/A,#N/A
+431,432,adelphoi,Adelphoi,ADL,Token,N/A,N/A,#N/A,#N/A,#N/A
+432,433,parkbyte,ParkByte,PKB,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+433,434,crystal-clear,Crystal Clear ,CCT,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+434,435,worldcoin,WorldCoin,WDC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+435,436,creativecoin,Creativecoin,CREA,Coin,Keccak,PoW,#N/A,#N/A,#N/A
+436,437,huntercoin,HunterCoin,HUC,Coin,Multiple,PoW,#N/A,#N/A,#N/A
+437,438,karbowanec,Karbowanec,KRB,Coin,CryptoNight,PoW,#N/A,#N/A,#N/A
+438,439,indorse-token,Indorse Token,IND,Token,N/A,N/A,#N/A,#N/A,#N/A
+439,440,chaincoin,ChainCoin,CHC,Coin,N/A,N/A,#N/A,#N/A,#N/A
+440,441,vtorrent,vTorrent,VTR,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+441,442,darcrus,Darcrus,DAR,Token,N/A,N/A,#N/A,#N/A,#N/A
+442,443,real-estate-tokens,REX,REX,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+443,444,magi,Magi,XMG,Coin,M7M,PoW/PoM/PoSII,#N/A,#N/A,#N/A
+444,445,innova,Innova,INN,Coin,NeoScrypt,PoW,#N/A,#N/A,#N/A
+445,446,newyorkcoin,NewYorkCoin,NYC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+446,447,solaris,Solaris,XLR,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+447,448,mercury-protocol,Mercury Protocol,GMT,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+448,449,hedge,Hedge,HDG,Token,N/A,N/A,#N/A,#N/A,#N/A
+449,450,publica,Publica,PBL,Token,N/A,N/A,#N/A,#N/A,#N/A
+450,451,crave,Crave,CRAVE,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+451,452,mywish,MyWish,WISH,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+452,453,starta,Starta,STA,Token,N/A,N/A,#N/A,#N/A,#N/A
+453,454,linda,Linda,LINDA,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+454,455,kolion,Kolion,KLN,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+455,456,tokes,Tokes,TKS,Token,N/A,N/A,#N/A,#N/A,#N/A
+456,457,megacoin,Megacoin,MEC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+457,458,hush,Hush,HUSH,Coin,Equihash,PoW,#N/A,#N/A,#N/A
+458,459,e-gulden,e-Gulden,EFL,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+459,460,anoncoin,Anoncoin,ANC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+460,461,rupee,Rupee,RUP,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+461,462,bulwark,Bulwark,BWK,Coin,NIST5,PoW/PoS,#N/A,#N/A,#N/A
+462,463,alqo,ALQO,ALQO,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+463,464,dotcoin,Dotcoin,DOT,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+464,465,autonio,Autonio,NIO,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+465,466,spreadcoin,SpreadCoin,SPR,Coin,X11,PoW,#N/A,#N/A,#N/A
+466,467,terracoin,Terracoin,TRC,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+467,468,cryptoping,CryptoPing,PING,Token,N/A,N/A,#N/A,#N/A,#N/A
+468,469,luxcoin,LUXCoin,LUX,Coin,PHI1612,PoW/PoS,#N/A,#N/A,#N/A
+469,470,ixcoin,Ixcoin,IXC,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+470,471,social,Social,SCL,Token,N/A,N/A,#N/A,#N/A,#N/A
+471,472,quark,Quark,QRK,Coin,Multiple,PoW,#N/A,#N/A,#N/A
+472,473,smartbillions,SmartBillions,SMART,Coin,Keccak,PoW,https://cdn.coinranking.com/media/1383906/smart.png?width=46,https://smartcash.cc/,0
+473,474,vivo,VIVO,VIVO,Coin,NeoScrypt,PoW,#N/A,#N/A,#N/A
+474,475,equitrader,EquiTrader,EQT,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+475,476,pandacoin-pnd,Pandacoin,PND,Coin,Scrypt,PoS,#N/A,#N/A,#N/A
+476,477,dnotes,DNotes,NOTE,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+477,478,colossuscoin-v2,Colossuscoin V2,CV2,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+478,479,onix,Onix,ONX,Coin,X11,PoW,#N/A,#N/A,#N/A
+479,480,bitcoinz,BitcoinZ,BTCZ,Coin,Equihash,PoW,#N/A,#N/A,#N/A
+480,481,eboostcoin,eBoost,EBST,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+481,482,luckchain,LuckChain,BASH,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+482,483,cartaxi-token,CarTaxi Token,CTX,Token,N/A,N/A,#N/A,#N/A,#N/A
+483,484,real,REAL,REAL,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+484,485,ufo-coin,UFO Coin,UFO,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+485,486,qvolta,Qvolta,QVT,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+486,487,unbreakablecoin,UnbreakableCoin,UNB,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+487,488,supercoin,SuperCoin,SUPER,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+488,489,fantomcoin,Fantomcoin,FCN,Coin,CryptoNight,PoW,#N/A,#N/A,#N/A
+489,490,flypme,FlypMe,FYP,Token,N/A,N/A,#N/A,#N/A,#N/A
+490,491,centurion,Centurion,CNT,Coin,X11,PoW/PoS,https://cdn.coinranking.com/media/1383150/cnt.png?width=46,http://www.centurionlab.org/,0
+491,492,audiocoin,AudioCoin,ADC,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+492,493,fastcoin,Fastcoin,FST,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+493,494,digipulse,DigiPulse,DGPT,Token,N/A,N/A,#N/A,#N/A,#N/A
+494,495,bitcoin-red,Bitcoin Red,BTCRED,Token,N/A,N/A,#N/A,#N/A,#N/A
+495,496,cryptogenic-bullion,Crypto Bullion,CBX,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+496,497,wavesgo,WavesGo,WGO,Token,N/A,N/A,#N/A,#N/A,#N/A
+497,498,electra,Electra,ECA,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+498,499,britcoin,BritCoin,BRIT,Coin,X13,PoW/PoS,#N/A,#N/A,#N/A
+499,500,hyperstake,HyperStake,HYP,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+500,501,zennies,Zennies,ZENI,Coin,Scrypt,PoS,#N/A,#N/A,#N/A
+501,502,ico-openledger,ICO OpenLedger,ICOO,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+502,503,pure,Pure,PURE,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+503,504,gcoin,GCoin,GCN,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+504,505,janus,Janus,JNS,Token,N/A,N/A,#N/A,#N/A,#N/A
+505,506,xgox,XGOX,XGOX,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+506,507,vsync-vsx,Vsync,VSX,Coin,X13,PoW/PoS,#N/A,#N/A,#N/A
+507,508,footy-cash,Footy Cash,XFT,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+508,509,goldblocks,GoldBlocks,GB,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+509,510,ethbits,Ethbits,ETBS,Token,N/A,N/A,#N/A,#N/A,#N/A
+510,511,privatix,Privatix,PRIX,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+511,512,fundyourselfnow,FundYourselfNow,FYN,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+512,513,altcoin-alt,Altcoin,ALT,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+513,514,zoin,Zoin,ZOI,Coin,Lyra2RE,PoW,#N/A,#N/A,#N/A
+514,515,elementrem,Elementrem,ELE,Coin,Ethash,PoW,#N/A,#N/A,#N/A
+515,516,magnet,Magnet,MAG,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+516,517,1337coin,1337,1337,Coin,X13,PoW/PoS,#N/A,#N/A,#N/A
+517,518,giga-watt-token,Giga Watt Token,WTT,Token,N/A,N/A,#N/A,#N/A,#N/A
+518,519,denarius-dnr,Denarius,DNR,Coin,NIST5,PoW/PoS,#N/A,#N/A,#N/A
+519,520,42-coin,42-coin,42,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+520,521,neverdie,NEVERDIE,NDC,Token,N/A,N/A,#N/A,#N/A,#N/A
+521,522,virtacoin,Virtacoin,VTA,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+522,523,legends-room,Legends Room,LGD,Token,N/A,N/A,#N/A,#N/A,#N/A
+523,524,linx,Linx,LINX,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+524,525,ellaism,Ellaism,ELLA,Coin,Ethash,PoW,#N/A,#N/A,#N/A
+525,526,tracto,Tracto,TRCT,Token,N/A,N/A,#N/A,#N/A,#N/A
+526,527,visio,Visio,VISIO,Coin,X13,PoW/PoS,#N/A,#N/A,#N/A
+527,528,flik,FLiK,FLIK,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+528,529,opus,Opus,OPT,Token,N/A,N/A,#N/A,#N/A,#N/A
+529,530,zeitcoin,Zeitcoin,ZEIT,Coin,PoS,PoS,#N/A,#N/A,#N/A
+530,531,atlant,ATLANT,ATL,Token,N/A,N/A,#N/A,#N/A,#N/A
+531,532,unitus,Unitus,UIS,Coin,Multiple,PoW,#N/A,#N/A,#N/A
+532,533,carboncoin,Carboncoin,CARBON,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+533,534,arcticcoin,ArcticCoin,ARC,Coin,X11,PoW,#N/A,#N/A,#N/A
+534,535,authorship,Authorship,ATS,Token,N/A,N/A,#N/A,#N/A,#N/A
+535,536,embers,Embers,MBRS,Token,N/A,N/A,#N/A,#N/A,#N/A
+536,537,russiacoin,RussiaCoin,RC,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+537,538,sprouts,Sprouts,SPRTS,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+538,539,intensecoin,IntenseCoin,ITNS,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+539,540,biblepay,BiblePay,BBP,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+540,541,unify,Unify,UNIFY,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+541,542,draftcoin,DraftCoin,DFT,Coin,Scrypt,PoS,#N/A,#N/A,#N/A
+542,543,influxcoin,Influxcoin,INFX,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+543,544,miners-reward-token,Miners' Reward Token,MRT,Token,N/A,N/A,#N/A,#N/A,#N/A
+544,545,monacocoin,Monoeci,XMCC,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+545,546,erc20,ERC20,ERC20,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+546,547,woodcoin,Woodcoin,LOG,Coin,N/A,PoW,#N/A,#N/A,#N/A
+547,548,bytecent,Bytecent,BYC,Coin,N/A,PoW,#N/A,#N/A,#N/A
+548,549,bitcoin-scrypt,Bitcoin Scrypt,BTCS,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+549,550,mazacoin,MazaCoin,MZC,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+550,551,abjcoin,Abjcoin,ABJ,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+551,552,piplcoin,PiplCoin,PIPL,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+552,553,growers-international,Growers International,GRWI,Coin,DPoS,N/A,#N/A,#N/A,#N/A
+553,554,coin,Coin(O),CNO,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+554,555,procurrency,ProCurrency,PROC,Coin,SHA256,PoS,#N/A,#N/A,#N/A
+555,556,orbitcoin,Orbitcoin,ORB,Coin,NeoScrypt,PoW/PoS,#N/A,#N/A,#N/A
+556,557,buzzcoin,BuzzCoin,BUZZ,Coin,SHA256D,PoW/PoS,#N/A,#N/A,#N/A
+557,558,smileycoin,SmileyCoin,SMLY,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+558,559,royal-kingdom-coin,Royal Kingdom Coin,RKC,Token,N/A,N/A,#N/A,#N/A,#N/A
+559,560,zetacoin,Zetacoin,ZET,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+560,561,kobocoin,Kobocoin,KOBO,Coin,X15,PoW/PoS,#N/A,#N/A,#N/A
+561,562,crowdcoin,CrowdCoin,CRC,Token,Scrypt,PoW,#N/A,#N/A,#N/A
+562,563,bata,Bata,BTA,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+563,564,canada-ecoin,Canada eCoin,CDN,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+564,565,greencoin,Greencoin,GRE,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+565,566,condensate,Condensate,RAIN,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+566,567,payfair,Payfair,PFR,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+567,568,piggycoin,Piggycoin,PIGGY,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+568,569,blockpay,BlockPay,BLOCKPAY,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+569,570,ebitcoin-cash,eBitcoinCash,EBCH,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+570,571,noblecoin,NobleCoin,NOBL,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+571,572,kekcoin,KekCoin,KEK,Coin,POS 2.0,PoS,#N/A,#N/A,#N/A
+572,573,litedoge,LiteDoge,LDOGE,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+573,574,cryptoforecast,CryptoForecast,CFT,Token,N/A,N/A,#N/A,#N/A,#N/A
+574,575,kayicoin,Kayicoin,KAYI,Coin,N/A,N/A,#N/A,#N/A,#N/A
+575,576,adzcoin,Adzcoin,ADZ,Coin,X11,PoW,#N/A,#N/A,#N/A
+576,577,renos,Renos,RNS,Coin,Scrypt,PoS,#N/A,#N/A,#N/A
+577,578,bitbar,BitBar,BTB,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+578,579,deutsche-emark,Deutsche eMark,DEM,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+579,580,bowhead,Bowhead,AHT,Token,Ethash,PoW,#N/A,#N/A,#N/A
+580,581,eltcoin,ELTCOIN,ELTCOIN,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+581,582,fujicoin,FujiCoin,FJC,Coin,Scrypt-n,N/A,#N/A,#N/A,#N/A
+582,583,netcoin,NetCoin,NET,Coin,Scrypt,PoW,https://cdn.coinranking.com/media/1383697/net1.png?width=46,https://nimiq.com/,0
+583,584,signatum,Signatum,SIGT,Coin,SkunkHash v2 Raptor,PoS,#N/A,#N/A,#N/A
+584,585,skincoin,SkinCoin,SKIN,Token,N/A,N/A,#N/A,#N/A,#N/A
+585,586,starcredits,StarCredits,STRC,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+586,587,zero,Zero,ZER,Coin,Equihash,PoW,#N/A,#N/A,#N/A
+587,588,version,Version,V,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+588,589,incakoin,IncaKoin,NKA,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+589,590,digitalprice,DigitalPrice,DP,Coin,X11,PoW,#N/A,#N/A,#N/A
+590,591,redcoin,RedCoin,RED,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+591,592,unity-ingot,Unity Ingot,UNY,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+592,593,dashcoin,Dashcoin,DSH,Coin,CryptoNight,PoW,#N/A,#N/A,#N/A
+593,594,hicoin,HiCoin,XHI,Coin,Scrypt,PoS,#N/A,#N/A,#N/A
+594,595,dinastycoin,Dinastycoin,DCY,Coin,CryptoNight,PoW,#N/A,#N/A,#N/A
+595,596,tagcoin,TagCoin,TAG,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+596,597,capricoin,Capricoin,CPC,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+597,598,insanecoin-insn,InsaneCoin,INSN,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+598,599,cryptocarbon,CryptoCarbon,CCRB,Coin,N/A,N/A,#N/A,#N/A,#N/A
+599,600,cream,Cream,CRM,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+600,601,copico,Copico,XCPO,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+601,602,fuelcoin,FuelCoin,FC2,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+602,603,colossuscoinxt,ColossusCoinXT,COLX,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+603,604,nekonium,Nekonium,NUKO,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+604,605,xios,Xios,XIOS,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+605,606,ultracoin,UltraCoin,UTC,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+606,607,digital-developers-fund,DigitalDevelopersFund,DDF,Token,N/A,N/A,#N/A,#N/A,#N/A
+607,608,trackr,CryptoInsight,TKR,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+608,609,trollcoin,Trollcoin,TROLL,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+609,610,aurumcoin,AurumCoin,AU,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+610,611,sovereign-hero,Sovereign Hero,HERO,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+611,612,goodomy,Goodomy,GOOD,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+612,613,interstellar-holdings,Interstellar Holdings,HOLD,Coin,Scrypt,PoS,#N/A,#N/A,#N/A
+613,614,moin,Moin,MOIN,Coin,N/A,PoW/PoS,#N/A,#N/A,#N/A
+614,615,joulecoin,Joulecoin,XJO,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+615,616,etheriya,Etheriya,RIYA,Token,N/A,N/A,#N/A,#N/A,#N/A
+616,617,teslacoin,TeslaCoin,TES,Coin,Multiple,PoW/PoS,#N/A,#N/A,#N/A
+617,618,roulettetoken,RouletteToken,RLT,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+618,619,i0coin,I0Coin,I0C,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+619,620,phoenixcoin,Phoenixcoin,PXC,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+620,621,hawala-today,Hawala.Today,HAT,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+621,622,bitbtc,bitBTC,BITBTC,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+622,623,machinecoin,Machinecoin,MAC,Coin,Time Travel,PoW,#N/A,#N/A,#N/A
+623,624,remicoin,Remicoin,RMC,Coin,#N/A,#N/A,#N/A,https://rmc.one/,Multicell mining. Revolutionary ecosystem for miners and investors
+624,625,altcommunity-coin,AltCommunity Coin,ALTCOM,Coin,SkunkHash,PoW/PoS,#N/A,#N/A,#N/A
+625,626,netko,Netko,NETKO,Coin,Blake,N/A,#N/A,#N/A,#N/A
+626,627,fluttercoin,FlutterCoin,FLT,Coin,Scrypt,PoS/PoW/PoT,#N/A,#N/A,#N/A
+627,628,gaia,GAIA,GAIA,Coin,X11,PoS,#N/A,#N/A,#N/A
+628,629,gameunits,GameUnits,UNITS,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+629,630,litecoin-plus,Litecoin Plus,LCP,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+630,631,bitradio,Bitradio,BRO,Coin,PoS,PoS,#N/A,#N/A,#N/A
+631,632,smartcoin,SmartCoin,SMC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+632,633,happycoin,Happycoin,HPC,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+633,634,paycoin2,PayCoin,XPY,Coin,SHA256,PoS,#N/A,#N/A,#N/A
+634,635,bit20,Bit20,BTWTY,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+635,636,zozocoin,ZoZoCoin,ZZC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+636,637,unicoin,UniCoin,UNIC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+637,638,elcoin-el,Elcoin,EL,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+638,639,mao-zedong,Mao Zedong,MAO,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+639,640,octanox,Octanox,OTX,Token,X11,PoW/PoS,#N/A,#N/A,#N/A
+640,641,atomic-coin,Atomic Coin,ATOM,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+641,642,nyancoin,Nyancoin,NYAN,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+642,643,ethbet,EthBet,EBET,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+643,644,bitcoinfast,Bitcoin Fast,BCF,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+644,645,postoken,PoSToken,POS,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+645,646,titcoin,Titcoin,TIT,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+646,647,ccore,Ccore,CCO,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+647,648,fujinto,Fujinto,NTO,Token,N/A,N/A,#N/A,#N/A,#N/A
+648,649,eternity,Eternity,ENT,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+649,650,daxxcoin,DaxxCoin,DAXX,Coin,Ethash,PoW,#N/A,#N/A,#N/A
+650,651,tychocoin,Tychocoin,TYCHO,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+651,652,trumpcoin,TrumpCoin,TRUMP,Coin,Blake,PoS,#N/A,#N/A,#N/A
+652,653,digitalcoin,Digitalcoin,DGC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+653,654,ethereumcash,Ethereum Cash,ECASH,Token,N/A,N/A,#N/A,#N/A,#N/A
+654,655,pioneer-coin,Pioneer Coin,PCOIN,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+655,656,berncash,BERNcash,BERN,Coin,X14,PoW/PoS,#N/A,#N/A,#N/A
+656,657,icobid,ICOBID,ICOB,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+657,658,embercoin,EmberCoin,EMB,Coin,X13,PoW/PoS,#N/A,#N/A,#N/A
+658,659,minereum,Minereum,MNE,Token,N/A,N/A,#N/A,#N/A,#N/A
+659,660,zurcoin,Zurcoin,ZUR,Coin,Quark,PoW,#N/A,#N/A,#N/A
+660,661,bitcoal,BitCoal,COAL,Coin,CryptoNight,PoW,#N/A,#N/A,#N/A
+661,662,leviarcoin,LeviarCoin,XLC,Coin,CryptoNight,PoW,#N/A,#N/A,#N/A
+662,663,catcoin,Catcoin,CAT,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+663,664,coin2-1,Coin2.1,C2,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+664,665,bunnycoin,BunnyCoin,BUN,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+665,666,campuscoin,CampusCoin,CMPCO,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+666,667,petrodollar,PetroDollar,XPD,Coin,SHA256D,N/A,#N/A,#N/A,#N/A
+667,668,qubitcoin,QubitCoin,Q2C,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+668,669,litebar,LiteBar,LTB,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+669,670,veltor,Veltor,VLT,Coin,N/A,PoW,#N/A,#N/A,#N/A
+670,671,briacoin,BriaCoin,BRIA,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+671,672,8bit,8Bit,8BIT,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+672,673,ethereum-gold,Ethereum Gold,ETG,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+673,674,inflationcoin,InflationCoin,IFLT,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+674,675,spacecoin,SpaceCoin,SPACE,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+675,676,macron,MACRON,MCRN,Coin,PoS,PoS,#N/A,#N/A,#N/A
+676,677,senderon,Senderon,SDRN,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+677,678,platinumbar,PlatinumBAR,XPTX,Coin,Quark,PoW/PoS,#N/A,#N/A,#N/A
+678,679,pakcoin,Pakcoin,PAK,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+679,680,mojocoin,MojoCoin,MOJO,Coin,PoS,PoS,#N/A,#N/A,#N/A
+680,681,evil-coin,Evil Coin,EVIL,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+681,682,pascal-lite,Pascal Lite,PASL,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+682,683,truckcoin,Truckcoin,TRK,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+683,684,kushcoin,KushCoin,KUSH,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+684,685,bolivarcoin,Bolivarcoin,BOLI,Coin,X11,PoW,#N/A,#N/A,#N/A
+685,686,swing,Swing,SWING,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+686,687,triangles,Triangles,TRI,Coin,X13,PoW/PoS,#N/A,#N/A,#N/A
+687,688,sterlingcoin,Sterlingcoin,SLG,Coin,X13,PoS,#N/A,#N/A,#N/A
+688,689,funcoin,FUNCoin,FUNC,Token,N/A,N/A,#N/A,#N/A,#N/A
+689,690,freicoin,Freicoin,FRC,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+690,691,bigup,BigUp,BIGUP,Coin,N/A,PoS,#N/A,#N/A,#N/A
+691,692,newbium,Newbium,NEWB,Token,N/A,N/A,#N/A,#N/A,#N/A
+692,693,wyvern,Wyvern,WYV,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+693,694,whalecoin,WhaleCoin,WHL,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+694,695,popularcoin,PopularCoin,POP,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+695,696,chesscoin,ChessCoin,CHESS,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+696,697,blakestar,BlakeStar,BLAS,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+697,698,lanacoin,LanaCoin,LANA,Coin,SHA256D,PoW/PoS,#N/A,#N/A,#N/A
+698,699,cannacoin,CannaCoin,CCN,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+699,700,purevidz,PureVidz,VIDZ,Coin,PoS,PoS,#N/A,#N/A,#N/A
+700,701,postcoin,PostCoin,POST,Coin,N/A,PoS,#N/A,#N/A,#N/A
+701,702,cryptojacks,Cryptojacks,CJ,Coin,X13,PoW/PoS,#N/A,#N/A,#N/A
+702,703,bitsilver,bitSilver,BITSILVER,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+703,704,helleniccoin,Helleniccoin,HNC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+704,705,808coin,808Coin,808,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+705,706,chronos,Chronos,CRX,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+706,707,corgicoin,CorgiCoin,CORG,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+707,708,bitgem,Bitgem,BTG,Coin,Equihash,PoW,https://cdn.coinranking.com/BkLedkw-G/btg.svg,https://bitcoingold.org/,Make bitcoin decentralized again. Bitcoin gold is a fork of the bitcoin blockchain. 
+708,709,photon,Photon,PHO,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+709,710,desire,Desire,DSR,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+710,711,eaglecoin,EagleCoin,EAGLE,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+711,712,kittehcoin,Kittehcoin,MEOW,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+712,713,usde,USDe,USDE,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+713,714,emerald,Emerald Crypto,EMD,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+714,715,ecocoin,EcoCoin,ECO,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+715,716,ganjacoin,GanjaCoin,MRJA,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+716,717,globalboost-y,GlobalBoost-Y,BSTY,Coin,yescript,PoW,#N/A,#N/A,#N/A
+717,718,tittiecoin,TittieCoin,TTC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+718,719,shadow-token,Shadow Token,SHDW,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+719,720,icoin,iCoin,ICN,Coin,N/A,N/A,https://cdn.coinranking.com/HyHZhSd_b/icn.svg,https://www.iconomi.net/,The ICONOMI Digital Assets Management Platform is a new and unique technical service that allows anyone from beginners to blockchain experts to invest in and manage digital assets.
+720,721,chancoin,ChanCoin,4CHN,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+721,722,jetcoin,Jetcoin,JET,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+722,723,iethereum,iEthereum,IETH,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+723,724,aricoin,Aricoin,ARI,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+724,725,zcash-gold,ZCash Gold,ZCG,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+725,726,ethereum-dark,Ethereum Dark,ETHD,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+726,727,bolenum,Bolenum,BLN,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+727,728,gold-pressed-latinum,Gold Pressed Latinum,GPL,Coin,N/A,PoW/PoS,#N/A,#N/A,#N/A
+728,729,sagacoin,SagaCoin,SAGA,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+729,730,billionaire-token,Billionaire Token,XBL,Token,N/A,N/A,#N/A,#N/A,#N/A
+730,731,eot-token,EOT Token,EOT,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+731,732,dalecoin,Dalecoin,DALC,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+732,733,ratecoin,Ratecoin,XRA,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+733,734,motocoin,Motocoin,MOTO,Coin,N/A,PoP,#N/A,#N/A,#N/A
+734,735,eurocoin,Eurocoin,EUC,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+735,736,cannation,Cannation,CNNC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+736,737,mutual-coin,Mutual Coin,MUT,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+737,738,prime-xi,Prime-XI,PXI,Coin,X11,PoW,#N/A,#N/A,#N/A
+738,739,hempcoin-hmp,HempCoin,HMP,Coin,Scrypt-n,PoW,#N/A,#N/A,#N/A
+739,740,scorecoin,Scorecoin,SCORE,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+740,741,kronecoin,Kronecoin,KRONE,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+741,742,aquariuscoin,AquariusCoin,ARCO,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+742,743,blakecoin,Blakecoin,BLC,Coin,Blake,PoW,#N/A,#N/A,#N/A
+743,744,honey,Honey,HONEY,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+744,745,aerium,Aerium,AERM,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+745,746,globaltoken,GlobalToken,GLT,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+746,747,tekcoin,TEKcoin,TEK,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+747,748,tajcoin,TajCoin,TAJ,Coin,Blake2S,PoW/PoS,#N/A,#N/A,#N/A
+748,749,grimcoin,Grimcoin,GRIM,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+749,750,slimcoin,Slimcoin,SLM,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+750,751,sugar-exchange,Sugar Exchange,SGR,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+751,752,virta-unique-coin,Virta Unique Coin,VUC,Coin,NIST5,PoW/PoS,#N/A,#N/A,#N/A
+752,753,securecoin,SecureCoin,SRC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+753,754,c-bit,C-Bit,XCT,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+754,755,gpu-coin,GPU Coin,GPU,Coin,Scrypt,PoS,#N/A,#N/A,#N/A
+755,756,revolvercoin,RevolverCoin,XRE,Coin,X11Evo,PoW,#N/A,#N/A,#N/A
+756,757,bitgold,bitGold,BITGOLD,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+757,758,droxne,DROXNE,DRXNE,Coin,PoS,PoS,#N/A,#N/A,#N/A
+758,759,boostcoin,BoostCoin,BOST,Coin,X13,PoW/PoS,#N/A,#N/A,#N/A
+759,760,bitasean,BitAsean,BAS,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+760,761,comet,Comet,CMT,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+761,762,biteur,bitEUR,BITEUR,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+762,763,iconic,Iconic,ICON,Coin,PoS,PoS,#N/A,#N/A,#N/A
+763,764,votecoin,VoteCoin,VOT,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+764,765,beatcoin,Beatcoin,XBTS,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+765,766,coinonatx,CoinonatX,XCXT,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+766,767,interzone,Interzone,ITZ,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+767,768,cachecoin,CacheCoin,CACH,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+768,769,creatio,Creatio,XCRE,Coin,PoS,PoS,#N/A,#N/A,#N/A
+769,770,reecoin,ReeCoin,REE,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+770,771,prcoin,PRCoin,PRC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+771,772,ronpaulcoin,RonPaulCoin,RPC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+772,773,eryllium,Eryllium,ERY,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+773,774,money,Money,$$$,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+774,775,metal-music-coin,Metal Music Coin,MTLMC3,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+775,776,monkey-project,Monkey Project,MONK,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+776,777,neuro,Neuro,NRO,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+777,778,brat,BROTHER,BRAT,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+778,779,bnrtxcoin,BnrtxCoin,BNX,Coin,X11,PoW,#N/A,#N/A,#N/A
+779,780,luna-coin,Luna Coin,LUNA,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+780,781,mindcoin,MindCoin,MND,Coin,X11,PoW,#N/A,#N/A,#N/A
+781,782,litecred,Litecred,LTCR,Coin,QuBit,PoW/PoS,#N/A,#N/A,#N/A
+782,783,jin-coin,Jin Coin,JIN,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+783,784,anarchistsprime,AnarchistsPrime,ACP,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+784,785,kurrent,Kurrent,KURT,Coin,X11,PoW,#N/A,#N/A,#N/A
+785,786,bipcoin,BipCoin,BIP,Coin,CryptoNight,PoW,#N/A,#N/A,#N/A
+786,787,global-tour-coin,Global Tour Coin,GTC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+787,788,allsafe,AllSafe,ASAFE2,Coin,Scrypt,PoS,#N/A,#N/A,#N/A
+788,789,x-coin,X-Coin,XCO,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+789,790,litecoin-ultra,LiteCoin Ultra,LTCU,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+790,791,women,WomenCoin,WOMEN,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+791,792,credence-coin,Credence Coin,CRDNC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+792,793,rimbit,Rimbit,RBT,Coin,N/A,N/A,#N/A,#N/A,#N/A
+793,794,impact,Impact,IMX,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+794,795,vaperscoin,VapersCoin,VPRC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+795,796,solarflarecoin,Solarflarecoin,SFC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+796,797,veros,Veros,VRS,Token,N/A,N/A,#N/A,#N/A,#N/A
+797,798,master-swiscoin,Master Swiscoin,MSCN,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+798,799,litebitcoin,LiteBitcoin,LBTC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+799,800,cybcsec,CybCSec,XCS,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+800,801,project-x,Project-X,NANOX,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+801,802,crevacoin,CrevaCoin,CREVA,Coin,X11,N/A,#N/A,#N/A,#N/A
+802,803,argus,Argus,ARGUS,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+803,804,levoplus,LevoPlus,LVPS,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+804,805,geysercoin,GeyserCoin,GSR,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+805,806,rawcoin2,Rawcoin,XRC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+806,807,ebittree-coin,Ebittree Coin,EBT,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+807,808,magnum,Magnum,MGM,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+808,809,swaptoken,SwapToken,TOKEN,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+809,810,harmonycoin-hmc,HarmonyCoin,HMC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+810,811,paypex,Paypex,PAYX,Token,#N/A,#N/A,#N/A,https://paypex.org/,0
+811,812,xplay,XPlay,XPA,Token,#N/A,#N/A,#N/A,https://xplay.fund/,0
+812,813,e-coin,E-coin,ECN,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+813,814,encryptotel,EncryptoTel [WAVES],ETT,Token,N/A,N/A,#N/A,#N/A,#N/A
+814,815,stakecoin-stcn,Stakecoin,STCN,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+815,816,xcurrency,XCurrency,XC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+816,817,rustbits,Rustbits,RUSTBITS,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+817,818,yashcoin,YashCoin,YASH,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+818,819,ongsocial,onG.social,ONG,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+819,820,fimkrypto,FIMKrypto,FIMK,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+820,821,cryptcoin,CryptCoin,CRYPT,Coin,X11,PoW,#N/A,#N/A,#N/A
+821,822,smart-investment-fund-token,Smart Investment Fund Token,SIFT,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+822,823,bankcoin,Bankcoin,B@,Token,N/A,N/A,#N/A,#N/A,#N/A
+823,824,hubii-network,Hubii Network,HBT,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+824,825,arcade-token,Arcade Token,ARC,Coin,X11,PoW,#N/A,#N/A,#N/A
+825,826,intelligent-trading-tech,Intelligent Trading Tech,ITT,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+826,827,prospectors-gold,Prospectors Gold,PGL,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+827,828,gimli,Gimli,GIM,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+828,829,hitcoin,HitCoin,HTC,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+829,830,inpay,InPay,INPAY,Token,N/A,N/A,#N/A,#N/A,#N/A
+830,831,shadowcash,ShadowCash,SDC,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+831,832,shorty,Shorty,SHORTY,Coin,PoS,PoS,#N/A,#N/A,#N/A
+832,833,emphy,Emphy,EPY,Token,Scrypt,PoW,#N/A,#N/A,#N/A
+833,834,link-platform,Link Platform,LNK,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+834,835,monster-byte,Monster Byte,MBI,Token,N/A,N/A,#N/A,#N/A,#N/A
+835,836,metalcoin,MetalCoin,METAL,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+836,837,casino,Casino,CASINO,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+837,838,btsr,BTSR,BTSR,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+838,839,opal,Opal,OPAL,Coin,X13,PoW/PoS,#N/A,#N/A,#N/A
+839,840,ultimate-secure-cash,Ultimate Secure Cash,USC,Coin,SHA256,PoS,#N/A,#N/A,#N/A
+840,841,lottocoin,LottoCoin,LOT,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+841,842,hobonickels,HoboNickels,HBN,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+842,843,upfiring,Upfiring,UFR,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+843,844,valorbit,Valorbit,VAL,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+844,845,stress,Stress,STS,Coin,X13,PoW/PoS,#N/A,#N/A,#N/A
+845,846,bitpark-coin,Bitpark Coin,BPC,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+846,847,kilocoin,KiloCoin,KLC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+847,848,accelerator-network,Accelerator Network,ACC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+848,849,joincoin,Joincoin,J,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+849,850,bitboost,BitBoost,BBT,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+850,851,maxcoin,MaxCoin,MAX,Coin,SHA3,PoW/PoS,#N/A,#N/A,#N/A
+851,852,the-cypherfunks,The Cypherfunks,FUNK,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+852,853,universe,Universe,UNI,Coin,Scrypt,PoS,#N/A,#N/A,#N/A
+853,854,guncoin,Guncoin,GUN,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+854,855,wayguide,WayGuide,WAY,Coin,X11,PoS,#N/A,#N/A,#N/A
+855,856,tigercoin,Tigercoin,TGC,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+856,857,darsek,Darsek,KED,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+857,858,fucktoken,FuckToken,FUCK,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+858,859,btctalkcoin,BTCtalkcoin,TALK,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+859,860,ether-for-the-rest-of-the-world,E4ROW,E4ROW,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+860,861,bitcurrency,Bitcurrency,BTCR,Coin,Scrypt,PoS,#N/A,#N/A,#N/A
+861,862,bitstar,Bitstar,BITS,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+862,863,swagbucks,SwagBucks,BUCKS,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+863,864,sproutsextreme,SproutsExtreme,SPEX,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+864,865,flycoin,Flycoin,FLY,Coin,X13,PoS,#N/A,#N/A,#N/A
+865,866,sacoin,SACoin,SAC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+866,867,bittokens,BitTokens,BXT,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+867,868,rasputin-online-coin,Rasputin Online Coin,ROC,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+868,869,sativacoin,Sativacoin,STV,Coin,X13,PoW/PoS,#N/A,#N/A,#N/A
+869,870,digicube,DigiCube,CUBE,Coin,N/A,PoS,#N/A,#N/A,#N/A
+870,871,emoneypower,EMoneyPower,EMP,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+871,872,shilling,Shilling,SH,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+872,873,ohm-wallet,OHM,OHM,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+873,874,iticoin,iTicoin,ITI,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+874,875,fincoin,FinCoin,FNC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+875,876,hodlcoin,HOdlcoin,HODL,Coin,1GB AES Pattern Search,PoW,#N/A,#N/A,#N/A
+876,877,goldreserve,GoldReserve,XGR,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+877,878,coexistcoin,CoExistCoin,COXST,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+878,879,prototanium,Prototanium,PR,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+879,880,confido,Confido,CFD,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+880,881,satoshimadness,SatoshiMadness,MAD,Coin,PoS,PoS,#N/A,#N/A,#N/A
+881,882,evotion,Evotion,EVO,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+882,883,halcyon,Halcyon,HAL,Coin,X15,PoW/PoS,#N/A,#N/A,#N/A
+883,884,ambercoin,AmberCoin,AMBER,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+884,885,wmcoin,WMCoin,WMC,Coin,X11,PoS,#N/A,#N/A,#N/A
+885,886,cypher,Cypher,CYP,Coin,QuBit,PoW,#N/A,#N/A,#N/A
+886,887,gapcoin,Gapcoin,GAP,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+887,888,mincoin,Mincoin,MNC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+888,889,quazarcoin,QuazarCoin,QCN,Coin,CryptoNight,PoW,#N/A,#N/A,#N/A
+889,890,yacoin,Yacoin,YAC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+890,891,octocoin,OctoCoin,888,Coin,N/A,PoW,#N/A,#N/A,#N/A
+891,892,grantcoin,Grantcoin,GRT,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+892,893,philosopher-stones,Philosopher Stones,PHS,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+893,894,franko,Franko,FRK,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+894,895,mineum,Mineum,MNM,Coin,X13,PoW/PoS,#N/A,#N/A,#N/A
+895,896,rubies,Rubies,RBIES,Coin,N/A,PoS,#N/A,#N/A,#N/A
+896,897,globalcoin,GlobalCoin,GLC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+897,898,bitcoin-planet,Bitcoin Planet,BTPL,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+898,899,quatloo,Quatloo,QTL,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+899,900,acoin,Acoin,ACOIN,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+900,901,ripto-bux,Ripto Bux,RBX,Token,N/A,N/A,#N/A,#N/A,#N/A
+901,902,parallelcoin,ParallelCoin,DUO,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+902,903,sling,Sling,SLING,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+903,904,virtacoinplus,Virtacoinplus,XVP,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+904,905,marscoin,Marscoin,MARS,Coin,X11,PoW,#N/A,#N/A,#N/A
+905,906,bitz,Bitz,BITZ,Coin,N/A,PoS,#N/A,#N/A,#N/A
+906,907,leacoin,LeaCoin,LEA,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+907,908,sooncoin,SoonCoin,SOON,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+908,909,tattoocoin,Tattoocoin (Standard Edition),TSE,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+909,910,bumbacoin,BumbaCoin,BUMBA,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+910,911,goldpieces,GoldPieces,GP,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+911,912,blazecoin,BlazeCoin,BLZ,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+912,913,nevacoin,NevaCoin,NEVA,Coin,N/A,PoW/PoS,#N/A,#N/A,#N/A
+913,914,firecoin,Firecoin,FIRE,Coin,X15,PoW/PoS,#N/A,#N/A,#N/A
+914,915,dollarcoin,Dollarcoin,DLC,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+915,916,islacoin,IslaCoin,ISL,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+916,917,px,PX,PX,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+917,918,antibitcoin,AntiBitcoin,ANTI,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+918,919,debitcoin,Debitcoin,DBTC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+919,920,bitcoin-21,Bitcoin 21,XBTC21,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+920,921,virtualcoin,VirtualCoin,VC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+921,922,unrealcoin,Unrealcoin,URC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+922,923,uro,Uro,URO,Coin,X11,PoW,#N/A,#N/A,#N/A
+923,924,argentum,Argentum,ARG,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+924,925,sixeleven,SixEleven,611,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+925,926,hexx,Hexx,HXX,Coin,Lyra2RE,PoW,#N/A,#N/A,#N/A
+926,927,independent-money-system,Independent Money System,IMS,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+927,928,300-token,300 Token,300,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+928,929,paycon,PayCon,CON,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+929,930,secretcoin,SecretCoin,SCRT,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+930,931,mustangcoin,MustangCoin,MST,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+931,932,idice,iDice,ICE,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+932,933,compucoin,CompuCoin,CPN,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+933,934,californium,Californium,CF,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+934,935,allion,Allion,ALL,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+935,936,marijuanacoin,Marijuanacoin,MAR,Coin,X11,PoW/PoS,#N/A,#N/A,#N/A
+936,937,ethgas,ETHGAS,EGAS,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+937,938,vector,VectorAI,VEC2,Coin,Dagger-Hashimoto,PoW,#N/A,#N/A,#N/A
+938,939,guccionecoin,GuccioneCoin,GCC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+939,940,soilcoin,SOILcoin,SOIL,Coin,Dagger,PoW,#N/A,#N/A,#N/A
+940,941,jewels,Jewels,JWL,Coin,POS 3.0,N/A,#N/A,#N/A,#N/A
+941,942,coinonat,Coinonat,CXT,Coin,NIST5,PoW,#N/A,#N/A,#N/A
+942,943,dreamcoin,Dreamcoin,DRM,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+943,944,warp,WARP,WARP,Coin,PoS,PoS,#N/A,#N/A,#N/A
+944,945,blackstar,Blackstar,BSTAR,Coin,X11,PoS,#N/A,#N/A,#N/A
+945,946,ammo-rewards,Ammo Rewards,AMMO,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+946,947,crypto,Crypto,CTO,Coin,Lyra2RE,PoW,#N/A,#N/A,#N/A
+947,948,cthulhu-offerings,Cthulhu Offerings,OFF,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+948,949,zetamicron,ZetaMicron,ZMC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+949,950,beavercoin,BeaverCoin,BVC,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+950,951,theresa-may-coin,Theresa May Coin,MAY,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+951,952,billarycoin,BillaryCoin,BLRY,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+952,953,starcash-network,StarCash Network,STARS,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+953,954,rupaya,Rupaya,RUPX,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+954,955,ereal,eREAL,EREAL,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+955,956,cryptoworldx-token,CryptoWorldX Token,CWXT,Coin,N/A,PoW/PoS,#N/A,#N/A,#N/A
+956,957,cagecoin,CageCoin,CAGE,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+957,958,benjirolls,BenjiRolls,BENJI,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+958,959,printerium,Printerium,PRX,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+959,960,digital-rupees,Digital Rupees,DRS,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+960,961,exchangen,ExchangeN,EXN,Token,N/A,N/A,#N/A,#N/A,#N/A
+961,962,piecoin,PIECoin,PIE,Coin,PoS,PoS,#N/A,#N/A,#N/A
+962,963,flavorcoin,FlavorCoin,FLVR,Coin,SHA256,PoW/PoS,#N/A,#N/A,#N/A
+963,964,flaxscript,Flaxscript,FLAX,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+964,965,qibuck-asset,Qibuck Asset,QBK,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+965,966,dibcoin,DIBCOIN,DIBC,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+966,967,pulse,Pulse,PULSE,Coin,SHA256D,PoS,#N/A,#N/A,#N/A
+967,968,kibicoin,KibiCoin,KIC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+968,969,zayedcoin,Zayedcoin,ZYD,Coin,SHA256,PoW,#N/A,#N/A,#N/A
+969,970,vip-tokens,VIP Tokens,VIP,Coin,NIST5,PoW/PoS,#N/A,#N/A,#N/A
+970,971,fuzzballs,FuzzBalls,FUZZ,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+971,972,orlycoin,Orlycoin,ORLY,Coin,X15,PoW/PoS,#N/A,#N/A,#N/A
+972,973,dappster,DAPPSTER,DLISK,Coin,N/A,DPoS,#N/A,#N/A,#N/A
+973,974,artex-coin,Artex Coin,ATX,Coin,X11,PoW,#N/A,#N/A,#N/A
+974,975,bitquark,BitQuark,BTQ,Coin,Multiple,PoW,#N/A,#N/A,#N/A
+975,976,asiadigicoin,Asiadigicoin,ADCN,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+976,977,bowscoin,BowsCoin,BSC,Coin,X11,PoW,#N/A,#N/A,#N/A
+977,978,spots,Spots,SPT,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+978,979,crtcoin,CRTCoin,CRT,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+979,980,steps,Steps,STEPS,Coin,N/A,PoS,#N/A,#N/A,#N/A
+980,981,network-token,Network Token,NTWK,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+981,982,songcoin,SongCoin,SONG,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+982,983,ego,EGO,EGO,Coin,PoS,PoS,#N/A,#N/A,#N/A
+983,984,ponzicoin,PonziCoin,PONZI,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+984,985,destiny,Destiny,DES,Coin,Scrypt,PoW/PoS,#N/A,#N/A,#N/A
+985,986,dix-asset,Dix Asset,DIX,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+986,987,healthywormcoin,HealthyWormCoin,WORM,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+987,988,futurexe,FuturXe,FXE,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+988,989,osmiumcoin,OsmiumCoin,OS76,Coin,Scrypt,PoW,#N/A,#N/A,#N/A
+989,990,impulsecoin,ImpulseCoin,IMPS,Coin,X13,PoW/PoS,#N/A,#N/A,#N/A
+990,991,chncoin,CHNCoin,CNC,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+991,992,mtmgaming,MTMGaming,MTM,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+992,993,dollar-online,Dollar Online,DOLLAR,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+993,994,slevin,Slevin,SLEVIN,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+994,995,bios-crypto,BiosCrypto,BIOS,Coin,Quark,PoW/PoS,#N/A,#N/A,#N/A
+995,996,torcoin-tor,Torcoin,TOR,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
+996,997,useless-ethereum-token,Useless Ethereum Token,UET,Token,#N/A,#N/A,#N/A,#N/A,#N/A
+997,998,posex,PosEx,PEX,Coin,SHA256D,N/A,#N/A,#N/A,#N/A
+998,999,vault-coin,Vault Coin,VLTC,Coin,X11,PoW,#N/A,#N/A,#N/A
+999,1000,genstake,G3N,G3N,Coin,#N/A,#N/A,#N/A,#N/A,#N/A
