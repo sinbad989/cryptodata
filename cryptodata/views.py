@@ -32,7 +32,7 @@ def data_list(request):
     return render(request,'cryptodata/list.html',{'data':data})
 
 def about(request):
-    return render(request,'cryptodata/about.html')
+    return render(request,'cryptodata/about.html',{})
 
 
 
