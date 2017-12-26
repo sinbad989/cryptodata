@@ -1,0 +1,54 @@
+{% extends "base.html"%}
+{% load mathfilters %}
+{% load humanize %}
+{% load static %}
+
+
+{% block content %}
+{% load widget_tweaks %}
+<br>
+<div class="container">
+        <table class="table">
+                <thead class="thead-dark">
+                    <tr class="tablehead">
+                    <th scope="col">Rank</th>
+                    <th scope="col">Symbol</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Price</th>
+                    <th scope="col">MarketCap</th>
+                    <th scope="col">Avail. Supply</th>
+                    <th scope="col">Max. Supply</th>
+                    <th scope="col">Type</th>
+                    <th scope="col">Algorithm</th>
+                    <th scope="col">Proof Type</th>
+                
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for d in data %}
+                    <tr>
+                        <td data-label="Rank"><b>{{d.rank}}</b></td>
+                        <td data-label="Symbol" class="size"><img class ="icon" src="{{d.icon}}" alt=""> {{d.symbol}}</td>
+                        <td data-label="Name"><a href="{{c.link}}">{{d.name}}</a></td>
+                        <td data-label="Price">{{d.price}}
+                            {% if d.percent_change >= 0 %}
+                                <span style="color:rgb(27, 219, 27); font-size:x-small;" > (+{{d.percent_change}}%)</span>
+                            {% else %}
+                                <span style="color:red;font-size:x-small;"> ({{d.percent_change}}%)</span>
+                            {% endif %}
+                        </td>
+                        <td data-label="MarketCap" class="size">{{d.market_cap}}</td> 
+                        <td data-label="Avail. Supply" class="size">{{d.available_supply|intcomma}}</td>
+                        <td data-label="Max. Supply" class="size"><b>{{d.max_supply|intcomma}}</b></td>
+                        <td data-label="Type">{{d.cryptype}}</td>
+                        <td data-label="Proof">{{d.algorithm}}</td>
+                        <td data-label="Algorithm">{{d.proof}}</td>
+                        
+                    </tr>
+                    {%endfor%}
+                </tbody>
+        </table>
+        
+        
+</div>
+{% endblock %}

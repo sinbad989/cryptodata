@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'django.contrib.humanize',
     'cryptodata',
     'mathfilters',
+    'widget_tweaks',
     'djmoney',
 ]
 

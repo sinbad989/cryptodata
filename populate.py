@@ -14,11 +14,11 @@ def populate():
     with open('model_database.csv') as csvfile:
         readCSV = csv.reader(csvfile, delimiter=',')
         for row in readCSV:
-            data.append({"Ids":row[2],"Name":row[3],"Symbol":row[4],"Type":row[5],"Proof":row[6],
-                        "Algorithm":row[7],"Icon":row[8],"URL":row[9]})
+            data.append({"Ids":row[2],"Name":row[3],"Symbol":row[4],"Type":row[5],"Algorithm":row[6],
+                        "Proof":row[7],"Icon":row[8],"URL":row[9]})
             #"Description":row[10]}
 
-    data = data[1:500]
+    data = data[1:250]
 
     cats = dict()
     for d in data:
@@ -30,8 +30,8 @@ def populate():
             name = p['Name']
             symbol = p['Symbol']
             types = p['Type']
-            proof = p['Proof']
             algorithm = p['Algorithm']
+            proof = p['Proof']
             url = p['URL']
             icon = p['Icon']
             add_cat(ids,name,symbol,types,proof,url,algorithm,icon)

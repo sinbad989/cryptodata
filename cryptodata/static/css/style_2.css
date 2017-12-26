@@ -95,3 +95,7 @@ footer {
 .size{
   font-size: small;
 }
+
+.row{
+  padding: 5px 5px 5px 5px;
+}

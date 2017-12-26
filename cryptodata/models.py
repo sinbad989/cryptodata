@@ -21,7 +21,7 @@ class Data(models.Model):
     description = models.TextField()
     
     # DATA OBTAIN VIA API
-    rank = models.IntegerField(default=9999,unique=True)
+    rank = models.IntegerField(default=9999)
     price = MoneyField(max_digits = 20, decimal_places = 2, default_currency='USD')
     market_cap = MoneyField(max_digits = 20, decimal_places = 2, default_currency='USD')
     available_supply = models.FloatField(default=0)  

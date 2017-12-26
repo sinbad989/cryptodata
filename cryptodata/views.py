@@ -4,12 +4,15 @@ import time
 
 from django.shortcuts import render
 from .models import Data
+from .filters import DataFilter
 
 # Create your views here.
 def data_list(request):
-    number_of_data_to_display = 30
+    # Number of data to be extracted and saved to the database
+    number_of_data_to_extract = 20
+
     # EXTRACTING DATA FROM API
-    url = 'https://api.coinmarketcap.com/v1/ticker/?limit='+str(number_of_data_to_display)
+    url = 'https://api.coinmarketcap.com/v1/ticker/?limit='+str(number_of_data_to_extract)
     content = requests.get(url)
     parsed_json = json.loads(content.text)
     # obtaining the top 10 coins of coinmarketcap
@@ -20,28 +23,29 @@ def data_list(request):
         content = requests.get(url)
         parsed_json = json.loads(content.text)[0]
         p = Data.objects.get(name= parsed_json['name'])
-        p.rank = parsed_json['rank']
         p.price = parsed_json['price_usd']
         p.market_cap = parsed_json["market_cap_usd"]
         p.available_supply = (parsed_json["available_supply"])
         p.max_supply = (parsed_json["max_supply"])
         p.percent_change = (parsed_json["percent_change_1h"])
+        p.rank = parsed_json['rank']
         p.save()
 
-    data = Data.objects.order_by('rank')[:number_of_data_to_display]   
-    return render(request,'cryptodata/list.html',{'data':data})
+    # Number of data to post
+    number_of_data_to_display = 10
+    data = Data.objects.order_by('rank')[:number_of_data_to_display]  
+    return render(request,'cryptodata/data_list.html',{'data':data})
 
 def about(request):
     return render(request,'cryptodata/about.html',{})
 
+def information(request):
+    return render(request,"cryptodata/information.html",{})
 
-
-
-
-
-
-
-
+def search(request):
+    data_list = Data.objects.all().order_by('rank')
+    data_filter = DataFilter(request.GET, queryset=data_list)
+    return render(request,'cryptodata/search.html',{'filter':data_filter})
 
 
 

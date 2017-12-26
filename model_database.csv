@@ -1,7 +1,7 @@
-,ranks,ids,names,symbols,type,proof,algorithm,icon,url links,description
+,ranks,ids,names,symbols,type,algorithm,proof,icon,url links,description
 0,1,bitcoin,Bitcoin,BTC,Coin,SHA-256d,PoW,https://cdn.coinranking.com/Sy33Krudb/btc.svg,https://bitcoin.org/,An innovative payment network and a new kind of money.
 1,2,ethereum,Ethereum,ETH,Coin,Ethash,PoW,https://cdn.coinranking.com/rk4RKHOuW/eth.svg,https://www.ethereum.org/,Blockchain app platform
-2,3,ripple,Ripple,XRP,Coin,N/A,N/A,https://cdn.coinranking.com/Bkuz9Hd_-/xrp.svg,https://ripple.com/,The world?s only enterprise blockchain solution for global payments
+2,3,ripple,Ripple,XRP,Coin,N/A,RPCA,https://cdn.coinranking.com/Bkuz9Hd_-/xrp.svg,https://ripple.com/,The world?s only enterprise blockchain solution for global payments
 3,4,bitcoin-cash,Bitcoin Cash,BCH,Coin,SHA256,PoW,https://cdn.coinranking.com/SkdJqSuuW/bch.svg,https://www.bitcoincash.org/,Peer-to-Peer Electronic Cash
 4,5,litecoin,Litecoin,LTC,Coin,Scrypt,PoW,https://cdn.coinranking.com/HyZL5BOOb/ltc.svg,https://litecoin.com,Global decentralized currency based on blockchain technology
 5,6,cardano,Cardano,ADA,Coin,Ouroboros,PoS,https://cdn.coinranking.com/ryY28nXhW/ada.svg,https://www.cardanohub.org/,Cardano is a decentralised public blockchain and cryptocurrency project and is fully open source. Cardano is developing a smart contract platform which seeks to deliver more advanced features than any protocol previously developed. It is the first blockchain platform to evolve out of a scientific philosophy and a research-first driven approach. The development team consists of a large global collective of expert engineers and researchers
