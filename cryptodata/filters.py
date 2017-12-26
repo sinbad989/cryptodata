@@ -1,6 +1,6 @@
 from django import forms
 import django_filters
-from .models import Data
+from cryptodata.models import Data
 
 class DataFilter(django_filters.FilterSet):
     TYPE = (

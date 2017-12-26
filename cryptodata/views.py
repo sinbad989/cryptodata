@@ -3,8 +3,8 @@ import requests
 import time
 
 from django.shortcuts import render
-from .models import Data
-from .filters import DataFilter
+from cryptodata.models import Data
+from cryptodata.filters import DataFilter
 
 # Create your views here.
 def data_list(request):
@@ -33,7 +33,8 @@ def data_list(request):
 
     # Number of data to post
     number_of_data_to_display = 10
-    data = Data.objects.order_by('rank')[:number_of_data_to_display]  
+    data = Data.objects.order_by('rank')[:number_of_data_to_display] 
+
     return render(request,'cryptodata/data_list.html',{'data':data})
 
 def about(request):
