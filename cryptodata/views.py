@@ -32,7 +32,7 @@ def data_list(request):
         p.rank = parsed_json['rank']
         p.save()
 
-    Number of data to post
+    #Number of data to post
     number_of_data_to_display = 10
     
     datalist = Data.objects.order_by('rank')[:50]
