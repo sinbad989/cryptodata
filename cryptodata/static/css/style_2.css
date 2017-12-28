@@ -1,8 +1,14 @@
-body {
+
+body{
     /* font-family: 'Copse', serif; */
-    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Open Sans', sans-serif;
     /* font-family: "Open Sans", sans-serif; */
     line-height: 1.25;
+  }
+
+  #title{
+    font-family: 'Lobster', cursive;
   }
   table {
     border: 1px solid #ccc;
@@ -98,4 +104,9 @@ footer {
 
 .row{
   padding: 5px 5px 5px 5px;
+}
+
+nav .class{
+  justify-content: center;
+  align-items: center;
 }

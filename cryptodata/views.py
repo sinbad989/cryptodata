@@ -5,11 +5,12 @@ import time
 from django.shortcuts import render
 from cryptodata.models import Data
 from cryptodata.filters import DataFilter
+from django.core.paginator import Paginator
 
 # Create your views here.
 def data_list(request):
     # Number of data to be extracted and saved to the database
-    number_of_data_to_extract = 20
+    number_of_data_to_extract = 100
 
     # EXTRACTING DATA FROM API
     url = 'https://api.coinmarketcap.com/v1/ticker/?limit='+str(number_of_data_to_extract)
@@ -22,7 +23,7 @@ def data_list(request):
         url = 'https://api.coinmarketcap.com/v1/ticker/'+str(ids)+'/'
         content = requests.get(url)
         parsed_json = json.loads(content.text)[0]
-        p = Data.objects.get(name= parsed_json['name'])
+        p, created = Data.objects.get_or_create(name= parsed_json['name'])
         p.price = parsed_json['price_usd']
         p.market_cap = parsed_json["market_cap_usd"]
         p.available_supply = (parsed_json["available_supply"])
@@ -31,27 +32,45 @@ def data_list(request):
         p.rank = parsed_json['rank']
         p.save()
 
-    # Number of data to post
+    Number of data to post
     number_of_data_to_display = 10
-    data = Data.objects.order_by('rank')[:number_of_data_to_display] 
+    
+    datalist = Data.objects.order_by('rank')[:50]
+    page = request.GET.get('page',1)
+
+    paginator = Paginator(datalist, 10)
+
+    try:
+        data = paginator.page(page)
+    except PageNotAnInteger:
+        data = paginator.page(1)
+    except EmptyPage:
+        data = paginator.page(paginator.num_pages)
 
     return render(request,'cryptodata/data_list.html',{'data':data})
 
 def about(request):
     return render(request,'cryptodata/about.html',{})
 
-def information(request):
-    return render(request,"cryptodata/information.html",{})
+def home(request):
+    datalist = Data.objects.order_by('rank')[:50]
+    page = request.GET.get('page',1)
+
+    paginator = Paginator(datalist, 10)
+
+    try:
+        data = paginator.page(page)
+    except PageNotAnInteger:
+        data = paginator.page(1)
+    except EmptyPage:
+        data = paginator.page(paginator.num_pages)
+
+    return render(request,'cryptodata/home.html',{'data':data})
 
 def search(request):
     data_list = Data.objects.all().order_by('rank')
     data_filter = DataFilter(request.GET, queryset=data_list)
     return render(request,'cryptodata/search.html',{'filter':data_filter})
-
-
-
-
-
 
 
 

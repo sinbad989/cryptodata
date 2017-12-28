@@ -18,7 +18,7 @@ def populate():
                         "Proof":row[7],"Icon":row[8],"URL":row[9]})
             #"Description":row[10]}
 
-    data = data[1:250]
+    data = data[1:500]
 
     cats = dict()
     for d in data:
