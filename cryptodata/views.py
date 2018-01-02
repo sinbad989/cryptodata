@@ -10,7 +10,7 @@ from django.core.paginator import Paginator
 # Create your views here.
 def data_list(request):
     # Number of data to be extracted and saved to the database
-    number_of_data_to_extract = 100
+    number_of_data_to_extract = 250
 
     # EXTRACTING DATA FROM API
     url = 'https://api.coinmarketcap.com/v1/ticker/?limit='+str(number_of_data_to_extract)
@@ -33,9 +33,9 @@ def data_list(request):
         p.save()
 
     #Number of data to post
-    number_of_data_to_display = 10
+    # number_of_data_to_display = 10
     
-    datalist = Data.objects.order_by('rank')[:50]
+    datalist = Data.objects.order_by('-score')[:100]
     page = request.GET.get('page',1)
 
     paginator = Paginator(datalist, 10)
@@ -68,7 +68,7 @@ def home(request):
     return render(request,'cryptodata/home.html',{'data':data})
 
 def search(request):
-    data_list = Data.objects.all().order_by('rank')
+    data_list = Data.objects.all().order_by('rank')[:50]
     data_filter = DataFilter(request.GET, queryset=data_list)
     return render(request,'cryptodata/search.html',{'filter':data_filter})
 

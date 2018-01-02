@@ -110,3 +110,11 @@ nav .class{
   justify-content: center;
   align-items: center;
 }
+
+.text-center{
+  text-align: center;
+}
+
+span .algo-color{
+  color: #42A5F5;
+}

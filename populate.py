@@ -15,7 +15,7 @@ def populate():
         readCSV = csv.reader(csvfile, delimiter=',')
         for row in readCSV:
             data.append({"Ids":row[2],"Name":row[3],"Symbol":row[4],"Type":row[5],"Algorithm":row[6],
-                        "Proof":row[7],"Icon":row[8],"URL":row[9]})
+                        "Proof":row[7],"Icon":row[8],"URL":row[9],"Score":row[10],"Genesis":row[11],"Block":row[12]})
             #"Description":row[10]}
 
     data = data[1:500]
@@ -34,13 +34,16 @@ def populate():
             proof = p['Proof']
             url = p['URL']
             icon = p['Icon']
-            add_cat(ids,name,symbol,types,proof,url,algorithm,icon)
+            score = p['Score']
+            genesis = p['Genesis']
+            block_time = p['Block']
+            add_cat(ids,name,symbol,types,proof,url,algorithm,icon,score,genesis,block_time)
 
     # Print out the categories we have added
     for c in Data.objects.all():
         print("-{0}".format(str(c)))
 
-def add_cat(ids,name,symbol,types,proof,url,algorithm,icon):
+def add_cat(ids,name,symbol,types,proof,url,algorithm,icon,score,genesis,block_time):
     c = Data.objects.get_or_create(name=name)[0]
     c.ids = ids
     c.name = name
@@ -50,6 +53,9 @@ def add_cat(ids,name,symbol,types,proof,url,algorithm,icon):
     c.symbol = symbol
     c.algorithm = algorithm
     c.icon = icon
+    c.score = score
+    c.genesis = genesis
+    c.block_time = block_time
     c.save()
     return c
 

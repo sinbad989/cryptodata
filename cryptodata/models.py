@@ -19,7 +19,10 @@ class Data(models.Model):
     link = models.URLField(blank=True, null=False)
     icon = models.URLField(blank=True, null=False)
     description = models.TextField()
-    
+    score = models.FloatField(default=0)
+    genesis = models.CharField(max_length=255,default='Unknown')
+    block_time = models.CharField(max_length=255, default='Unknown')
+
     # DATA OBTAIN VIA API
     rank = models.IntegerField(default=9999)
     price = MoneyField(max_digits = 20, decimal_places = 2, default_currency='USD')

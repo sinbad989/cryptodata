@@ -2,44 +2,102 @@
 
 {% block content %}
 <div class="container">
-        <br>
-        <br>
-        <h1>About Us.</h1>
-        <p>it is beneficial to keep a collection of information about the cryptocurrencies 
-                in your portfolio or the assets you might want to keep an eye out for. This way, 
-                when new information erupts, you can just add it to your document without having to 
-                compile full research every time you want to refresh yourself about the project. 
-                You can consider it as keeping a diary of cryptocurrencies you are invested in.</p>
-                <p>
-                
-                <ul>
-                    <li>Project description: include links</li>
-                    <li>Risk Analysis or SWOT</li>
-                    <li>Team Members:</li>
-                    <li>Project Road Map</li>
-                    <li>Whitepaper links and notes</li>
-                    <li>Upcoming events or dates</li>
-                    <li>Links to important articles or news</li>
-                </ul>
-        </p>
+<br>
+<br>
+<div class="card">
+                <div class="card-header">
+                  About Us.
+                </div>
+                <div class="card-body">
+                  <h5 class="card-title">Cryptocurrency Specs for Intelligent Investing.</h5>
+                        <p class="card-text">It is beneficial to keep a collection of information about the cryptocurrencies 
+                        in your portfolio or the assets you might want to keep an eye out for. This will help you be an intelligent investor. For each coin 
+                        in the market, a short specs will give you an overview of the true nature of the coin and will gave you an idea if you've made a sound investment on a coin. 
+                        <span class="badge">This weeds out the coins which are likely </span> to be a scam. 
+                        <br>
+                        The data here are from various sources and is collated to provide an easier overview.
+                        <br>
+                        <br>
+                       This is a collection of important coin specs in a single site. The data are from various sources:
+
+                        <ul>
+                        <li><b>Rank</b>:
+                                <ul>
+                                        <li>ranking based on the value of market capitalization</li>
+                                </ul>
+                        </li>
+                        <li><b>Symbols</b>:
+                                <ul>
+                                        <li>icons are from coinranking, they provide a beautiful icons.</li>
+                                </ul>
+                         </li>
+                        <li><b>Name (type)</b>:
+                                <ul><li>
+                                                contains the link of the crypto and its respective type, either a coin or a toke.
+                                </li></ul> 
+                        </li>
+                        <li><b>Price</b>: 
+                                <ul>
+                                        <li>base on coinmarketcap data API, you can get an updated price by refreshing the page.</li>
+                                </ul>
+                        </li>
+                        <li><b>Marketcap</b>:
+                                <ul>
+                                        <li>extracted using coinmarketcap API</li>
+                                </ul> 
+                        </li>
+                        <li><b>Avail. Supply (Max Supply)</b>: 
+                        <ul>
+                                <li>comes from various sources in the net, including coinmarketcap</li>
+                        </ul></li>
+                        <li><b>Community score</b>: 
+                                <ul>
+                                        <li>an average score from developer score,social media interest, and search engine based scoring, data comes from coingecko.</li>
+                                </ul>
+                        </li>
+                        <li><b>Block Time</b>:
+                                <ul>
+                                        <li>It is a measure of how long it will take the hashing power of the network to find a solution to the block hash.</li>
+                                </ul>
+                        </li>
+                        <li><b>Algorithm:</b>
+                                
+                                <ul>Most Common Cryptocurrency Mining Algorithms:
+                                <li><span class="text-color">SHA256:</span> Bitcoin, Mastercoin, MazaCoin, Namecoin, NuBits, Peercoin, BitcoinDark, Scotcoin, Nubits, CarpeDiem, Paccoin, Tigercoin, Mazacoin, eMark, Titcoin, Neoscoin, Saffroncoin, Curecoin, Zetacoin, Acoin, TEKcoin, Unobtanium, Blakecoin, Reikicoin, Ixcoin, Bytecoin
+                                <li>Scrypt: Auroracoin, Coinye, Synereo, Syscoin, GameCredits, Dogecoin, Litecoin, Potcoin, Starcoin, Teslacoin, Nucoin, Topcoin, Pesetacoin, Smartcoin, Xivra, Zedcoin, Stockcoin, Foxcoin, Worldcoin, Reddcoin</li>
+                                <li> Scrypt Adaptive-N: Vertcoin, Execoin, Parallaxcoin, SiliconValleycoin, GPUcoin</li>
+                                <li>  Scrypt-Jane (Scrypt-Chacha): Yacoin, Ultracoin, Velocitycoin</li>
+                                <li>X11: Dash, Crevacoin, Cryptcoin, Fuelcoin, Startcoin, Crevacoin, Adzcoin, Influxcoin, Cannabiscoin, Darkcoin, Hirocoin, X11coin, Smartcoin, Goldblocks,</li>
+                                <li> X13: Cloakcoin, Sherlockcoin, Boostcoin, Ambercoin, Navcoin, QiBuck, Networkcoin, Marucoin, X13coin
+                                        </li>
+                                <li>X15: X15Coin, BitBlock</li>
+                                <li>Groestl: Groestlcoin, Securecoin, Myriad-Groestl</li>
+                                <li> Quark: BitQuark, Diamondcoin, Animecoin</li>
+                                <li>Qubit: Geocoin, DGB-Qubit, Myriad-Qubit</li>
+                                <li>NeoScrypt: Feathercoin, Phoenixcoin, Orbitcoin, UFOcoin</li>
+                                <li>SHA-3 (Keccak): Maxcoin, Slothcoin, Cryptometh, NexusNiro</li>
+                                <li>Blake-256: Dirac, Electron, BlakeBitcoin, Blakecoin, Photon</li>
+                                <li>Ethash: Krypton, Shift, Expanse, EthereumClassic, Ethereum</li>
+                                liLyra2REv2: Monacoin, Vertcoin
+                                <li>Chacha: Ultracoin</li>
+                                </ul>
+                        </li>
+                        <li><b>Proof Type</b>:
+                        <ul><li>
+                                extracted from cryptocompare
+                        </li></ul></li>
+                        <li><b>Genesis date</b>: 
+                        <ul><li>date of creation of the first block</li></ul></li>
+                        </ul>
+                        </p>
+                  <a href="{% url "cryptodata:data_list" %}" class="btn btn-warning">Go to the List.</a>
+                </div>
+              </div>
+
+</p>
 </div>
 
 <!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-        var sc_project=11586119; 
-        var sc_invisible=0; 
-        var sc_security="be62ee27"; 
-        var scJsHost = (("https:" == document.location.protocol) ?
-        "https://secure." : "http://www.");
-        document.write("<sc"+"ript type='text/javascript' src='" +
-        scJsHost+
-        "statcounter.com/counter/counter.js'></"+"script>");
-</script>
 
-<noscript><div class="statcounter"><a title="Web Analytics"
-href="http://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="//c.statcounter.com/11586119/0/be62ee27/0/" alt="Web
-Analytics"></a></div></noscript>
         <!-- End of StatCounter Code for Default Guide -->
 {% endblock %}

@@ -53,19 +53,16 @@
                       <a class="nav-link" href="{% url "cryptodata:data_list"%}">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="{% url "cryptodata:about" %}">About Us</a>
+                        <a class="nav-link" href="{% url "cryptodata:search" %}">Search</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{% url "cryptodata:search" %}">Search</a>
-                      </li>
+                      <a class="nav-link" href="{% url "cryptodata:about" %}">About Us</a>
+                    </li>
                   </ul>
-                  <!-- <span class="navbar-text">
-                     "a place for information on each cryptocurrency"
-                  </span> -->
                    
                 </div>
         </nav>  
-        {% block content %}
+    {% block content %}
 
 
     {% endblock %}
@@ -76,12 +73,5 @@
             </div>        
       </div>
     </div>
-    <!-- <br>
-    <br>
-    <br>
-    <footer class="footer">
-      © 2017, <a href="bitcoin://publickeyhere">Donate Bitcoin</a>  
-    </div>         
-    </footer> -->
 </body>
 </html>
