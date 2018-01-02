@@ -10,7 +10,7 @@ from django.core.paginator import Paginator
 # Create your views here.
 def data_list(request):
     # Number of data to be extracted and saved to the database
-    number_of_data_to_extract = 500
+    number_of_data_to_extract = 300
 
     # EXTRACTING DATA FROM API
     url = 'https://api.coinmarketcap.com/v1/ticker/?limit='+str(number_of_data_to_extract)
