@@ -68,7 +68,7 @@ def home(request):
     return render(request,'cryptodata/home.html',{'data':data})
 
 def search(request):
-    data_list = Data.objects.all().order_by('rank')[:50]
+    data_list = Data.objects.all().order_by('rank')
     data_filter = DataFilter(request.GET, queryset=data_list)
     return render(request,'cryptodata/search.html',{'filter':data_filter})
 

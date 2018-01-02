@@ -11,7 +11,8 @@ class DataFilter(django_filters.FilterSet):
     name = django_filters.CharFilter(lookup_expr='icontains')
     symbol = django_filters.CharFilter(lookup_expr='icontains')
     cryptype = django_filters.ChoiceFilter(choices = TYPE,widget=forms.CheckboxSelectMultiple)
-
+    proof = django_filters.CharFilter(lookup_expr='icontains')
+    algorithm = django_filters.CharFilter(lookup_expr='icontains')
     class Meta:
         model  = Data
         fields  = ['name','cryptype','symbol','algorithm','proof']
