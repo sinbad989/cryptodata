@@ -33,7 +33,7 @@
                     <tr>
                         <td data-label="Rank"><b>{{d.rank}}</b></td>
                         <td data-label="Symbol" class="size"><img class ="icon" src="{{d.icon}}" alt=""> {{d.symbol}}</td>
-                        <td data-label="Name (Type)"><a href="{{c.link}}">{{d.name}}</a><br><span class="size">({{d.cryptype}})</span></td>
+                        <td data-label="Name (Type)"><a href="{{d.link}}">{{d.name}}</a><br><span class="size">({{d.cryptype}})</span></td>
                         <td data-label="Price">{{d.price}}
                             {% if d.percent_change >= 0 %}
                                 <span style="color:rgb(27, 219, 27); font-size:x-small;" > (+{{d.percent_change}}%)</span>
